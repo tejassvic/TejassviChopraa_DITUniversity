@@ -1,0 +1,57 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+.python-version
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large datasets (optional)
+# Uncomment if datasets should not be pushed
+# data/*.csv
+
+# Generated outputs
+*.html
+
+# Secrets
+.env
+.env.*
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bz2
