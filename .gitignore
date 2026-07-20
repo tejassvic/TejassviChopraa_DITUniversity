@@ -55,3 +55,9 @@ dist/
 *.tar
 *.gz
 *.bz2
+
+spark-warehouse/
+derby.log
+metastore_db/
+*.crc
+_SUCCESS
