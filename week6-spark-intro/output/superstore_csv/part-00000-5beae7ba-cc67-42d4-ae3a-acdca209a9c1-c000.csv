@@ -1,0 +1,1152 @@
+Order_ID,Customer_Name,Category,Region,Sales,Quantity,Profit,GST,Discounted_Sales,Profit_Margin
+CA-2016-152156,Claire Gute,Furniture,South,731.94,3,219.582,131.75,658.75,30.0
+US-2015-108966,Sean O'Donnell,Furniture,South,957.5775,5,-383.031,172.36,861.82,-40.0
+CA-2014-115812,Brosina Hoffman,Technology,West,907.152,6,90.7152,163.29,816.44,10.0
+CA-2014-115812,Brosina Hoffman,Furniture,West,1706.184,9,85.3092,307.11,1535.57,5.0
+CA-2014-115812,Brosina Hoffman,Technology,West,911.424,4,68.3568,164.06,820.28,7.5
+CA-2014-105893,Pete Kriz,Office Supplies,Central,665.88,6,13.3176,119.86,599.29,2.0
+CA-2015-106320,Emily Burns,Furniture,West,1044.63,3,240.2649,188.03,940.17,23.0
+US-2015-150630,Tracy Blumstein,Furniture,East,3083.43,7,-1665.0522,555.02,2775.09,-54.0
+CA-2016-117590,Gene Hale,Technology,Central,1097.544,7,123.4737,197.56,987.79,11.25
+CA-2015-117415,Steve Nguyen,Furniture,Central,532.3992,3,-46.9764,95.83,479.16,-8.82
+CA-2016-105816,Janet Molinari,Technology,East,1029.95,5,298.6855,185.39,926.96,29.0
+CA-2014-106376,Brendan Sweed,Office Supplies,West,1113.024,8,111.3024,200.34,1001.72,10.0
+US-2015-134026,Joel Eaton,Furniture,South,831.936,8,-114.3912,149.75,748.74,-13.75
+CA-2015-110457,Dave Kipp,Furniture,West,787.53,3,165.3813,141.76,708.78,21.0
+US-2014-152030,Alan Dominguez,Furniture,Central,600.558,3,-8.5794,108.1,540.5,-1.43
+US-2014-134614,Philip Fox,Furniture,Central,617.7,6,-407.682,111.19,555.93,-66.0
+CA-2017-155376,Sandra Glassco,Office Supplies,Central,839.43,3,218.2518,151.1,755.49,26.0
+CA-2015-110744,Helen Andreada,Office Supplies,West,671.93,7,20.1579,120.95,604.74,3.0
+CA-2016-114489,Justin Ellison,Furniture,Central,1951.84,8,585.552,351.33,1756.66,30.0
+CA-2016-114104,Nora Paige,Technology,Central,944.93,7,236.2325,170.09,850.44,25.0
+CA-2014-139892,Becky Martin,Technology,Central,8159.952,8,-1359.992,1468.79,7343.96,-16.67
+CA-2014-139892,Becky Martin,Furniture,Central,1740.06,9,-24.858,313.21,1566.05,-1.43
+CA-2014-158274,Robert Marley,Technology,South,503.96,4,131.0296,90.71,453.56,26.0
+CA-2015-102281,Mark Packer,Furniture,East,899.136,4,112.392,161.84,809.22,12.5
+CA-2015-102281,Mark Packer,Furniture,East,626.352,3,46.9764,112.74,563.72,7.5
+CA-2015-146262,Victoria Wilson,Technology,East,1188.0,9,-950.4,213.84,1069.2,-80.0
+CA-2015-163055,David Smith,Furniture,Central,622.45,5,136.939,112.04,560.21,22.0
+US-2017-100930,Christopher Schild,Furniture,South,620.6145,3,-248.2458,111.71,558.55,-40.0
+US-2017-100930,Christopher Schild,Technology,South,617.976,3,-7.7247,111.24,556.18,-1.25
+CA-2014-131926,Dianna Wilson,Furniture,Central,2001.86,7,580.5394,360.33,1801.67,29.0
+CA-2014-131926,Dianna Wilson,Office Supplies,Central,1503.25,5,496.0725,270.59,1352.93,33.0
+CA-2016-145625,Kelly Collister,Technology,West,3347.37,13,636.0003,602.53,3012.63,19.0
+US-2015-159982,Dan Reichenbach,Technology,Central,647.904,6,56.6916,116.62,583.11,8.75
+US-2014-106992,Sean Braxton,Technology,Central,3059.982,3,-509.997,550.8,2753.98,-16.67
+US-2014-106992,Sean Braxton,Technology,Central,2519.958,7,-251.9958,453.59,2267.96,-10.0
+CA-2017-163979,Kristen Hastings,Office Supplies,West,725.84,4,210.4936,130.65,653.26,29.0
+US-2015-161991,Steven Cartwright,Technology,Central,1114.4,7,376.11,200.59,1002.96,33.75
+CA-2015-130890,Jas O'Carroll,Furniture,West,1038.84,5,51.942,186.99,934.96,5.0
+CA-2016-112697,Alan Haines,Office Supplies,South,961.48,5,-204.3145,173.07,865.33,-21.25
+CA-2014-164973,Nathan Mautz,Technology,East,3991.98,2,1995.99,718.56,3592.78,50.0
+US-2016-141544,Patrick O'Brill,Furniture,East,786.744,4,-258.5016,141.61,708.07,-32.86
+CA-2015-137946,Doug Bickford,Technology,West,959.984,2,335.9944,172.8,863.99,35.0
+CA-2014-129924,Alyssa Crouse,Furniture,West,698.352,3,-17.4588,125.7,628.52,-2.5
+CA-2014-122336,Jonathan Doherty,Office Supplies,East,509.97,10,-407.976,91.79,458.97,-80.0
+CA-2016-129714,Adam Bellavance,Office Supplies,East,4355.168,4,1415.4296,783.93,3919.65,32.5
+CA-2017-155698,Victoria Brennan,Office Supplies,South,647.84,8,168.4384,116.61,583.06,26.0
+CA-2016-155516,Michael Kennedy,Furniture,East,1043.92,4,271.4192,187.91,939.53,26.0
+US-2014-119137,Arthur Gainer,Technology,West,1023.936,8,179.1888,184.31,921.54,17.5
+US-2017-134481,Allen Rosenblatt,Furniture,East,1488.424,7,-297.6848,267.92,1339.58,-20.0
+US-2014-135972,Jack Garza,Technology,West,1799.97,3,701.9883,323.99,1619.97,39.0
+CA-2016-108987,Anna Gayman,Furniture,Central,2396.2656,4,-317.1528,431.33,2156.64,-13.24
+CA-2017-117457,Keith Herrera,Technology,West,1199.976,3,434.9913,216.0,1079.98,36.25
+CA-2017-117457,Keith Herrera,Furniture,West,1004.024,7,-112.9527,180.72,903.62,-11.25
+CA-2017-117457,Keith Herrera,Furniture,West,1336.829,13,31.4548,240.63,1203.15,2.35
+CA-2017-155705,Natalie Fritzler,Furniture,South,866.4,4,225.264,155.95,779.76,26.0
+CA-2016-127369,Dave Brooks,Office Supplies,East,714.3,5,207.147,128.57,642.87,29.0
+CA-2016-147375,Philisse Overcash,Technology,Central,1007.979,3,43.1991,181.44,907.18,4.29
+CA-2017-147277,Ed Braxton,Office Supplies,East,665.408,2,66.5408,119.77,598.87,10.0
+US-2016-157945,Natalie Fritzler,Furniture,Central,747.558,3,-96.1146,134.56,672.8,-12.86
+CA-2015-109638,Joseph Holt,Technology,West,899.91,9,377.9622,161.98,809.92,42.0
+CA-2016-109869,Tanja Norvell,Furniture,West,1272.63,6,-814.4832,229.07,1145.37,-64.0
+CA-2014-144666,Jeremy Pistek,Technology,West,703.968,4,87.996,126.71,633.57,12.5
+CA-2016-100790,John Grady,Office Supplies,East,704.25,5,84.51,126.77,633.83,12.0
+CA-2017-140963,Michelle Tran,Furniture,West,514.165,5,-30.245,92.55,462.75,-5.88
+CA-2014-154627,Sue Ann Reed,Technology,Central,2735.952,6,341.994,492.47,2462.36,12.5
+US-2016-105578,Maribeth Yedwab,Furniture,West,801.568,2,50.098,144.28,721.41,6.25
+CA-2015-145352,Christopher Martinez,Office Supplies,South,6354.95,5,3177.475,1143.89,5719.46,50.0
+CA-2017-127432,Alan Dominguez,Technology,West,2999.95,5,1379.977,539.99,2699.96,46.0
+CA-2017-127432,Alan Dominguez,Office Supplies,West,1126.02,3,56.301,202.68,1013.42,5.0
+CA-2017-113558,Patricia Hirasaki,Furniture,South,683.952,3,42.747,123.11,615.56,6.25
+US-2015-138303,Mike Gockenbach,Office Supplies,East,666.248,1,-149.9058,119.92,599.62,-22.5
+CA-2016-168753,Rob Lucas,Technology,South,979.95,5,274.386,176.39,881.96,28.0
+US-2015-120161,Liz MacKendrick,Office Supplies,East,646.776,9,-145.5246,116.42,582.1,-22.5
+CA-2016-136406,Bill Donatelli,Furniture,West,1121.568,2,0.0,201.88,1009.41,0.0
+CA-2017-100650,Dean Katz,Office Supplies,West,1295.78,2,310.9872,233.24,1166.2,24.0
+CA-2016-113243,Olvera Toch,Furniture,West,1335.68,4,-217.048,240.42,1202.11,-16.25
+CA-2014-131450,Lena Radford,Technology,West,1199.976,3,434.9913,216.0,1079.98,36.25
+CA-2016-121223,Giulietta Dortch,Technology,East,728.946,9,-157.9383,131.21,656.05,-21.67
+CA-2015-138009,Sylvia Foulston,Office Supplies,Central,555.21,5,178.901,99.94,499.69,32.22
+CA-2015-138009,Sylvia Foulston,Office Supplies,Central,523.48,4,130.87,94.23,471.13,25.0
+CA-2016-115917,Rick Bensley,Furniture,West,1049.2,5,272.792,188.86,944.28,26.0
+US-2016-156097,Eugene Hildebrand,Furniture,Central,701.372,2,-50.098,126.25,631.23,-7.14
+CA-2015-146563,Cassandra Brandow,Office Supplies,Central,999.432,7,124.929,179.9,899.49,12.5
+CA-2015-146563,Cassandra Brandow,Office Supplies,Central,724.08,14,-135.765,130.33,651.67,-18.75
+CA-2015-146563,Cassandra Brandow,Furniture,Central,918.785,5,-118.1295,165.38,826.91,-12.86
+US-2017-168116,Grant Thornton,Technology,South,7999.98,4,-3839.9904,1440.0,7199.98,-48.0
+CA-2014-112158,David Philippe,Furniture,East,883.92,5,-110.49,159.11,795.53,-12.5
+CA-2016-142335,Michael Paige,Furniture,Central,1652.94,3,231.4116,297.53,1487.65,14.0
+US-2016-150861,Emily Grady,Furniture,East,542.646,3,102.4998,97.68,488.38,18.89
+CA-2014-124429,Maya Herman,Furniture,West,567.12,10,-28.356,102.08,510.41,-5.0
+CA-2016-110499,Yoseph Carroll,Technology,West,1199.976,3,374.9925,216.0,1079.98,31.25
+CA-2014-162775,Chris Selesnick,Technology,South,646.74,6,258.696,116.41,582.07,40.0
+CA-2014-162775,Chris Selesnick,Office Supplies,South,572.58,6,34.3548,103.06,515.32,6.0
+CA-2016-157245,Laurel Elliston,Furniture,South,641.96,2,179.7488,115.55,577.76,28.0
+CA-2015-144267,Nick Zandusky,Furniture,West,544.008,3,40.8006,97.92,489.61,7.5
+CA-2016-105256,Joe Kamberova,Technology,South,1363.96,5,85.2475,245.51,1227.56,6.25
+CA-2014-134313,Russell Applegate,Technology,West,1983.968,4,247.996,357.11,1785.57,12.5
+CA-2014-151995,Zuschuss Carroll,Furniture,West,1298.55,5,311.652,233.74,1168.7,24.0
+CA-2017-143686,Pauline Johnson,Technology,West,1399.93,7,601.9699,251.99,1259.94,43.0
+CA-2014-140858,Cynthia Arntzen,Furniture,East,1228.465,5,0.0,221.12,1105.62,0.0
+CA-2016-158099,Paul Knutson,Office Supplies,East,1141.47,5,-760.98,205.46,1027.32,-66.67
+CA-2017-111689,Harold Pawlan,Furniture,East,1242.9,5,262.39,223.72,1118.61,21.11
+CA-2017-133256,Tracy Hopkins,Technology,Central,543.92,8,135.98,97.91,489.53,25.0
+CA-2017-137596,Bill Eplett,Technology,Central,1199.8,4,323.946,215.96,1079.82,27.0
+CA-2017-137596,Bill Eplett,Technology,Central,1928.78,7,829.3754,347.18,1735.9,43.0
+US-2014-141215,Kelly Lampkin,Furniture,Central,797.944,4,-56.996,143.63,718.15,-7.14
+CA-2016-149797,Adam Hart,Office Supplies,East,841.568,2,294.5488,151.48,757.41,35.0
+CA-2016-142958,Rob Williams,Furniture,West,1114.272,4,41.7852,200.57,1002.84,3.75
+CA-2015-120880,John Lucas,Office Supplies,West,540.57,3,140.5482,97.3,486.51,26.0
+US-2017-110576,Ross Baird,Furniture,East,516.488,7,-12.9122,92.97,464.84,-2.5
+US-2017-110576,Ross Baird,Furniture,East,1007.232,6,75.5424,181.3,906.51,7.5
+US-2017-110576,Ross Baird,Furniture,East,2065.32,12,-619.596,371.76,1858.79,-30.0
+CA-2017-135279,Bryan Spruell,Office Supplies,East,501.81,3,0.0,90.33,451.63,0.0
+CA-2017-159366,Bart Watters,Technology,Central,3059.982,2,679.996,550.8,2753.98,22.22
+CA-2016-144939,Emily Burns,Furniture,East,599.292,6,93.2232,107.87,539.36,15.56
+CA-2014-163419,Tracy Zic,Technology,West,559.984,2,55.9984,100.8,503.99,10.0
+CA-2014-163419,Tracy Zic,Furniture,West,603.92,5,75.49,108.71,543.53,12.5
+CA-2017-167899,John Grady,Furniture,East,520.05,5,72.807,93.61,468.04,14.0
+CA-2015-153549,Sara Luxemburg,Furniture,South,1166.92,5,131.2785,210.05,1050.23,11.25
+CA-2014-117639,Mitch Willingham,Office Supplies,South,2715.93,7,1276.4871,488.87,2444.34,47.0
+CA-2014-117639,Mitch Willingham,Technology,South,617.97,3,173.0316,111.23,556.17,28.0
+CA-2015-124891,Rick Hansen,Technology,East,2309.65,7,762.1845,415.74,2078.69,33.0
+CA-2015-124891,Rick Hansen,Furniture,East,1090.782,7,-290.8752,196.34,981.7,-26.67
+US-2015-126214,John Stevenson,Furniture,West,1618.37,13,356.0414,291.31,1456.53,22.0
+CA-2015-108665,Kalyca Meade,Office Supplies,East,601.65,5,156.429,108.3,541.49,26.0
+CA-2015-124450,Greg Tran,Furniture,East,1267.53,3,316.8825,228.16,1140.78,25.0
+CA-2015-124450,Greg Tran,Technology,East,1379.92,8,648.5624,248.39,1241.93,47.0
+CA-2014-163552,Laura Armstrong,Furniture,East,854.94,3,213.735,153.89,769.45,25.0
+CA-2016-127670,Robert Dilbeck,Furniture,Central,697.16,4,146.4036,125.49,627.44,21.0
+CA-2016-102981,Mary O'Rourke,Furniture,East,722.352,3,90.294,130.02,650.12,12.5
+CA-2016-169103,Zuschuss Carroll,Technology,South,1363.96,5,85.2475,245.51,1227.56,6.25
+CA-2014-139192,Lena Creighton,Technology,West,1113.504,12,125.2692,200.43,1002.15,11.25
+CA-2015-110016,Bill Tyler,Furniture,Central,1106.91,9,121.7601,199.24,996.22,11.0
+US-2016-143819,Karen Daniels,Furniture,East,836.592,8,-264.9208,150.59,752.93,-31.67
+US-2016-143819,Karen Daniels,Technology,East,4899.93,7,2400.9657,881.99,4409.94,49.0
+CA-2015-142755,Christine Sundaresam,Technology,South,619.95,5,111.591,111.59,557.96,18.0
+US-2014-147627,Hunter Lopez,Technology,South,699.93,7,181.9818,125.99,629.94,26.0
+US-2014-147627,Hunter Lopez,Furniture,South,1067.94,3,224.2674,192.23,961.15,21.0
+CA-2014-146969,Arthur Prichep,Technology,West,686.32,2,223.054,123.54,617.69,32.5
+CA-2015-112452,Nat Carroll,Office Supplies,Central,644.076,2,107.346,115.93,579.67,16.67
+CA-2015-112452,Nat Carroll,Technology,Central,599.98,2,209.993,108.0,539.98,35.0
+CA-2014-136567,Penelope Sewall,Furniture,South,2244.48,7,493.7856,404.01,2020.03,22.0
+CA-2014-128146,Dave Brooks,Technology,East,1322.93,7,357.1911,238.13,1190.64,27.0
+CA-2017-117212,Bradley Talbott,Technology,West,889.536,8,66.7152,160.12,800.58,7.5
+CA-2017-117212,Bradley Talbott,Furniture,West,892.224,3,89.2224,160.6,803.0,10.0
+CA-2016-130946,Zuschuss Carroll,Office Supplies,Central,1088.792,4,-1850.9464,195.98,979.91,-170.0
+CA-2016-114727,Linda Southworth,Furniture,West,544.008,3,40.8006,97.92,489.61,7.5
+CA-2016-114727,Linda Southworth,Furniture,West,854.352,3,10.6794,153.78,768.92,1.25
+CA-2016-114727,Linda Southworth,Office Supplies,West,593.568,2,0.0,106.84,534.21,0.0
+CA-2016-137050,Steven Ward,Furniture,East,579.136,4,21.7176,104.24,521.22,3.75
+US-2017-118087,Stefania Perrino,Technology,East,1931.958,7,-386.3916,347.75,1738.76,-20.0
+CA-2016-153682,Brooke Gillingham,Technology,East,839.988,2,69.999,151.2,755.99,8.33
+CA-2014-168494,Nora Preis,Furniture,West,764.688,6,95.586,137.64,688.22,12.5
+CA-2014-168494,Nora Preis,Furniture,West,3610.848,12,135.4068,649.95,3249.76,3.75
+CA-2017-115602,Doug Jacobs,Furniture,East,1141.938,9,139.5702,205.55,1027.74,12.22
+CA-2017-115602,Doug Jacobs,Office Supplies,East,1704.56,13,511.368,306.82,1534.1,30.0
+CA-2015-154956,Irene Maddox,Technology,Central,1099.96,4,285.9896,197.99,989.96,26.0
+US-2016-168620,Ross Baird,Office Supplies,South,540.048,3,-47.2542,97.21,486.04,-8.75
+CA-2017-117079,Jocasta Rupert,Technology,South,863.88,3,107.985,155.5,777.49,12.5
+CA-2015-138898,Justin Hirsh,Office Supplies,West,845.728,13,84.5728,152.23,761.16,10.0
+CA-2016-137043,Logan Currie,Furniture,South,572.76,6,166.1004,103.1,515.48,29.0
+CA-2016-145919,Henry Goldwyn,Office Supplies,West,579.3,5,28.965,104.27,521.37,5.0
+CA-2014-160773,Laurel Workman,Technology,South,575.92,2,71.99,103.67,518.33,12.5
+CA-2016-122133,Jim Radford,Office Supplies,East,552.56,4,0.0,99.46,497.3,0.0
+CA-2017-100524,Chad McGuire,Technology,East,677.58,3,176.1708,121.96,609.82,26.0
+CA-2017-113481,Aaron Smayling,Technology,South,695.7,2,-27.828,125.23,626.13,-4.0
+US-2017-155425,Ann Blume,Furniture,West,899.136,4,-146.1096,161.84,809.22,-16.25
+US-2015-103471,Jim Radford,Furniture,West,590.058,7,-786.744,106.21,531.05,-133.33
+CA-2015-120362,Christina Anderson,Furniture,West,912.75,5,118.6575,164.3,821.48,13.0
+CA-2014-126361,Valerie Dominguez,Office Supplies,West,1089.75,3,305.13,196.16,980.78,28.0
+US-2017-117247,Cyma Kinney,Furniture,Central,652.45,5,-430.617,117.44,587.21,-66.0
+CA-2015-126697,Stuart Van,Technology,Central,946.344,7,118.293,170.34,851.71,12.5
+CA-2014-120768,Irene Maddox,Furniture,South,1819.86,14,163.7874,327.57,1637.87,9.0
+CA-2015-139731,Joel Eaton,Furniture,Central,2453.43,5,-350.49,441.62,2208.09,-14.29
+CA-2016-133725,Ken Lonsdale,Technology,Central,1979.928,9,148.4946,356.39,1781.94,7.5
+CA-2016-133711,Mark Cousins,Technology,South,3040.0,8,1459.2,547.2,2736.0,48.0
+CA-2016-152289,Linda Cazamias,Furniture,Central,1024.716,6,-29.2776,184.45,922.24,-2.86
+CA-2017-139199,Damala Kotsonis,Furniture,Central,872.94,3,226.9644,157.13,785.65,26.0
+CA-2015-140410,Corinna Mitchell,Technology,West,1212.848,7,106.1242,218.31,1091.56,8.75
+CA-2017-166436,Todd Sumrall,Furniture,East,977.292,6,173.7408,175.91,879.56,17.78
+CA-2017-130386,Nathan Gelder,Office Supplies,Central,540.048,3,-47.2542,97.21,486.04,-8.75
+CA-2015-153388,Pauline Chand,Furniture,West,1004.976,6,-175.8708,180.9,904.48,-17.5
+CA-2017-148446,Michael Chen,Furniture,West,1669.6,4,116.872,300.53,1502.64,7.0
+CA-2017-121888,Carl Ludwig,Furniture,East,782.94,3,203.5644,140.93,704.65,26.0
+CA-2014-150245,Pamela Coakley,Furniture,East,1573.488,7,196.686,283.23,1416.14,12.5
+CA-2014-134278,Emily Phan,Technology,East,559.992,1,174.9975,100.8,503.99,31.25
+US-2017-102890,Sheri Gordon,Furniture,East,1044.63,5,-295.9785,188.03,940.17,-28.33
+US-2014-157385,Sanjit Chand,Furniture,West,603.92,5,-67.941,108.71,543.53,-11.25
+CA-2014-101602,Mick Crebagga,Furniture,Central,763.28,5,-21.808,137.39,686.95,-2.86
+CA-2015-131338,Naresj Patel,Office Supplies,East,1217.568,2,456.588,219.16,1095.81,37.5
+CA-2015-131338,Naresj Patel,Technology,East,979.95,5,274.386,176.39,881.96,28.0
+CA-2017-132234,Maribeth Yedwab,Furniture,East,547.3,13,175.136,98.51,492.57,32.0
+CA-2017-138380,Yana Sorensen,Office Supplies,West,1000.02,7,290.0058,180.0,900.02,29.0
+CA-2017-108560,Jenna Caffey,Office Supplies,West,786.48,8,385.3752,141.57,707.83,49.0
+CA-2015-157084,James Galang,Technology,West,675.96,5,84.495,121.67,608.36,12.5
+CA-2015-157084,James Galang,Technology,West,1265.85,3,556.974,227.85,1139.26,44.0
+CA-2015-164539,Philisse Overcash,Office Supplies,East,523.25,5,141.2775,94.19,470.93,27.0
+CA-2015-143119,Marc Crier,Furniture,South,517.5,6,155.25,93.15,465.75,30.0
+CA-2016-106530,Clay Ludtke,Office Supplies,East,1006.056,3,88.0299,181.09,905.45,8.75
+CA-2014-168984,Natalie Webber,Office Supplies,West,669.08,5,-167.27,120.43,602.17,-25.0
+CA-2015-111829,Fred Hopkins,Office Supplies,West,1247.64,3,349.3392,224.58,1122.88,28.0
+CA-2015-111829,Fred Hopkins,Technology,West,3149.93,7,1480.4671,566.99,2834.94,47.0
+CA-2017-144526,Quincy Jones,Technology,East,677.58,5,-158.102,121.96,609.82,-23.33
+US-2015-157154,Michael Moore,Furniture,East,1018.104,4,-373.3048,183.26,916.29,-36.67
+CA-2014-142839,Troy Staebel,Furniture,East,853.092,6,-227.4912,153.56,767.78,-26.67
+CA-2014-135657,Steven Cartwright,Furniture,West,515.88,6,113.4936,92.86,464.29,22.0
+CA-2015-114069,Natalie DeCherney,Furniture,East,1931.04,9,321.84,347.59,1737.94,16.67
+CA-2017-123491,Jamie Kunitz,Office Supplies,West,1702.12,14,510.636,306.38,1531.91,30.0
+US-2017-124968,Michelle Moray,Furniture,Central,765.625,7,-566.5625,137.81,689.06,-74.0
+US-2017-164056,Filia McAdams,Furniture,East,1048.35,5,-69.89,188.7,943.52,-6.67
+CA-2017-116715,Victoria Wilson,Office Supplies,West,559.62,9,151.0974,100.73,503.66,27.0
+CA-2015-135622,Tonja Turnell,Technology,Central,1718.4,6,150.36,309.31,1546.56,8.75
+CA-2015-154326,Roy Phan,Technology,Central,699.98,2,195.9944,126.0,629.98,28.0
+CA-2014-120474,Resi P�lking,Furniture,Central,2807.84,8,673.8816,505.41,2527.06,24.0
+CA-2017-158379,Joseph Airdo,Office Supplies,East,4663.736,7,-1049.3406,839.47,4197.36,-22.5
+US-2016-116729,Grace Kelly,Technology,West,2575.944,7,257.5944,463.67,2318.35,10.0
+CA-2014-132612,Frank Olsen,Furniture,South,1441.3,7,245.021,259.43,1297.17,17.0
+CA-2016-109344,Cathy Hwang,Technology,South,1127.976,3,126.8973,203.04,1015.18,11.25
+CA-2014-103373,Bruce Stewart,Technology,East,779.796,2,-168.9558,140.36,701.82,-21.67
+CA-2017-145884,Sara Luxemburg,Technology,Central,1439.92,8,374.3792,259.19,1295.93,26.0
+CA-2017-162691,Aaron Smayling,Technology,Central,1439.982,3,-263.9967,259.2,1295.98,-18.33
+CA-2017-122693,Nicole Hansen,Office Supplies,South,1245.86,7,361.2994,224.25,1121.27,29.0
+CA-2015-160472,Ralph Kennedy,Technology,Central,831.2,5,124.68,149.62,748.08,15.0
+US-2016-100839,Noah Childs,Furniture,West,727.45,5,-465.568,130.94,654.71,-64.0
+CA-2014-116932,Michelle Ellison,Furniture,West,801.568,2,50.098,144.28,721.41,6.25
+CA-2015-109512,Luke Foster,Office Supplies,East,563.4,4,67.608,101.41,507.06,12.0
+CA-2017-141789,Amy Cox,Office Supplies,Central,1793.98,2,843.1706,322.92,1614.58,47.0
+CA-2014-169775,Ryan Akin,Office Supplies,South,505.176,4,-336.784,90.93,454.66,-66.67
+CA-2017-154410,Michael Dominguez,Office Supplies,Central,909.12,8,9.0912,163.64,818.21,1.0
+CA-2017-121503,Frank Hawley,Technology,Central,597.132,3,49.761,107.48,537.42,8.33
+US-2017-111423,Edward Hooks,Office Supplies,East,895.92,5,302.373,161.27,806.33,33.75
+CA-2016-156685,Scot Coram,Technology,Central,863.64,9,107.955,155.46,777.28,12.5
+US-2017-101539,Valerie Mitchum,Technology,West,659.976,3,49.4982,118.8,593.98,7.5
+CA-2016-112109,Joe Elijah,Furniture,West,662.88,3,74.574,119.32,596.59,11.25
+CA-2017-157987,Ann Chong,Furniture,East,1282.41,5,213.735,230.83,1154.17,16.67
+CA-2014-110408,Alan Schoenberger,Technology,South,1394.95,5,362.687,251.09,1255.46,26.0
+CA-2014-110408,Alan Schoenberger,Furniture,South,545.88,6,70.9644,98.26,491.29,13.0
+CA-2016-112669,Kean Takahito,Furniture,West,933.536,4,105.0228,168.04,840.18,11.25
+CA-2016-147417,Christy Brittain,Technology,East,1439.976,4,191.9968,259.2,1295.98,13.33
+CA-2015-127509,Adam Shillingsburg,Furniture,Central,1024.38,7,215.1198,184.39,921.94,21.0
+CA-2016-145905,Anne McFarland,Office Supplies,South,900.08,4,117.0104,162.01,810.07,13.0
+CA-2016-168354,Rick Huthwaite,Office Supplies,East,1606.23,9,481.869,289.12,1445.61,30.0
+CA-2016-168354,Rick Huthwaite,Furniture,East,872.32,4,244.2496,157.02,785.09,28.0
+CA-2016-131835,Matt Collister,Technology,East,597.0,3,280.59,107.46,537.3,47.0
+CA-2017-120376,Theone Pippenger,Furniture,Central,1586.69,7,412.5394,285.6,1428.02,26.0
+CA-2015-133452,Zuschuss Carroll,Furniture,West,710.832,3,-97.7394,127.95,639.75,-13.75
+CA-2017-122504,Deborah Brumfield,Technology,West,761.544,7,66.6351,137.08,685.39,8.75
+US-2016-146570,Steve Nguyen,Office Supplies,South,511.84,8,240.5648,92.13,460.66,47.0
+US-2014-140116,Kean Thornton,Office Supplies,West,636.408,3,-15.9102,114.55,572.77,-2.5
+CA-2015-164882,Sandra Glassco,Technology,West,1295.84,4,145.782,233.25,1166.26,11.25
+CA-2017-155460,Rob Williams,Office Supplies,West,895.92,5,302.373,161.27,806.33,33.75
+CA-2014-159520,Grant Thornton,Furniture,East,991.764,3,-347.1174,178.52,892.59,-35.0
+CA-2014-124646,Dianna Vittorini,Office Supplies,Central,501.81,3,0.0,90.33,451.63,0.0
+CA-2016-128818,Caroline Jumper,Technology,East,3999.95,5,1159.9855,719.99,3599.96,29.0
+CA-2017-143063,Ivan Liston,Technology,Central,1454.49,9,378.1674,261.81,1309.04,26.0
+US-2014-165659,Liz Thompson,Technology,South,881.93,7,229.3018,158.75,793.74,26.0
+CA-2014-125556,Maris LaWare,Technology,East,832.93,7,233.2204,149.93,749.64,28.0
+CA-2017-130841,Matt Hagelstein,Technology,West,1145.6,4,100.24,206.21,1031.04,8.75
+CA-2014-128055,Alex Avila,Office Supplies,West,673.568,2,252.588,121.24,606.21,37.5
+CA-2017-157091,Denny Blanton,Furniture,Central,526.45,5,31.587,94.76,473.81,6.0
+CA-2016-146633,Toby Gnade,Office Supplies,West,1016.792,1,381.297,183.02,915.11,37.5
+CA-2017-103380,Barry Franz,Technology,West,659.976,3,49.4982,118.8,593.98,7.5
+CA-2015-116092,Justin MacKendrick,Office Supplies,West,541.44,6,157.0176,97.46,487.3,29.0
+CA-2017-105214,Troy Staebel,Furniture,West,1212.96,7,90.972,218.33,1091.66,7.5
+CA-2015-142944,John Lucas,Technology,West,1119.984,2,377.9946,201.6,1007.99,33.75
+CA-2017-142622,Jim Karlsson,Furniture,West,614.272,8,-23.0352,110.57,552.84,-3.75
+CA-2017-115154,Ricardo Sperren,Furniture,West,892.98,2,80.3682,160.74,803.68,9.0
+CA-2015-113145,Valerie Dominguez,Technology,East,1399.93,7,601.9699,251.99,1259.94,43.0
+CA-2015-113145,Valerie Dominguez,Technology,East,503.96,4,125.99,90.71,453.56,25.0
+CA-2017-157931,Meg O'Connel,Furniture,South,723.92,4,188.2192,130.31,651.53,26.0
+US-2015-147739,Justin Deggeller,Furniture,East,547.136,4,-68.392,98.48,492.42,-12.5
+CA-2016-159373,Liz Thompson,Furniture,Central,557.585,5,0.0,100.37,501.83,0.0
+CA-2015-111514,Scott Cohen,Furniture,West,1552.831,7,200.9546,279.51,1397.55,12.94
+US-2014-148838,Christine Phan,Furniture,East,1579.746,7,-447.5947,284.35,1421.77,-28.33
+US-2014-148838,Christine Phan,Furniture,East,1071.576,4,-553.6476,192.88,964.42,-51.67
+US-2014-148838,Christine Phan,Furniture,East,613.908,3,-122.7816,110.5,552.52,-20.0
+US-2015-127040,Speros Goranitis,Technology,East,1619.91,9,97.1946,291.58,1457.92,6.0
+CA-2017-147361,Sean Braxton,Office Supplies,South,628.81,7,12.5762,113.19,565.93,2.0
+US-2016-110170,Harry Marie,Furniture,Central,956.6648,7,-225.0976,172.2,861.0,-23.53
+CA-2017-108574,Mike Gockenbach,Technology,West,1115.91,9,200.8638,200.86,1004.32,18.0
+CA-2014-151295,Joseph Airdo,Furniture,West,629.064,3,31.4532,113.23,566.16,5.0
+CA-2016-156300,Troy Blackwell,Furniture,Central,754.45,5,60.356,135.8,679.01,8.0
+CA-2017-168655,Michelle Lonsdale,Technology,West,595.0,5,95.2,107.1,535.5,16.0
+CA-2016-107202,Linda Cazamias,Technology,West,2396.4,10,179.73,431.35,2156.76,7.5
+CA-2015-154746,Patrick Jones,Office Supplies,South,826.11,3,322.1829,148.7,743.5,39.0
+CA-2017-140053,Christina Anderson,Furniture,West,545.85,9,114.6285,98.25,491.27,21.0
+CA-2016-146934,Art Ferguson,Office Supplies,East,662.84,4,172.3384,119.31,596.56,26.0
+CA-2017-128755,Mike Kennedy,Office Supplies,South,571.44,4,165.7176,102.86,514.3,29.0
+CA-2016-114972,Phillip Flathmann,Office Supplies,West,1101.48,4,429.5772,198.27,991.33,39.0
+CA-2017-102750,Greg Maxwell,Furniture,West,1322.352,3,-99.1764,238.02,1190.12,-7.5
+CA-2017-147956,Alan Hwang,Office Supplies,West,1003.62,6,0.0,180.65,903.26,0.0
+CA-2017-126067,Kristina Nunn,Furniture,West,1137.75,5,250.305,204.8,1023.98,22.0
+CA-2015-141040,Tim Brockman,Technology,East,631.96,4,303.3408,113.75,568.76,48.0
+CA-2014-144624,John Murray,Technology,East,4548.81,7,1228.1787,818.79,4093.93,27.0
+CA-2016-146206,Kean Thornton,Technology,Central,719.96,5,53.997,129.59,647.96,7.5
+CA-2014-136644,Sonia Cooley,Furniture,Central,647.84,8,32.392,116.61,583.06,5.0
+CA-2014-143917,Ken Lonsdale,Office Supplies,West,8187.65,5,327.506,1473.78,7368.89,4.0
+CA-2016-136812,Arthur Wiediger,Office Supplies,Central,1117.92,4,55.896,201.23,1006.13,5.0
+CA-2014-128888,Peter B�hler,Office Supplies,Central,604.656,9,204.0714,108.84,544.19,33.75
+CA-2016-124352,Cynthia Delaney,Office Supplies,Central,868.59,3,251.8911,156.35,781.73,29.0
+US-2017-117723,Dionis Lloyd,Office Supplies,East,1801.632,6,-337.806,324.29,1621.47,-18.75
+CA-2015-113404,Eleni McCrary,Furniture,West,1348.704,6,-219.1644,242.77,1213.83,-16.25
+CA-2015-113404,Eleni McCrary,Furniture,West,700.152,3,78.7671,126.03,630.14,11.25
+US-2015-128090,John Murray,Technology,West,1879.96,5,211.4955,338.39,1691.96,11.25
+CA-2017-101042,Adrian Barton,Furniture,South,821.88,6,213.6888,147.94,739.69,26.0
+CA-2016-118626,John Castell,Technology,South,705.544,7,70.5544,127.0,634.99,10.0
+CA-2015-147788,Tamara Manning,Furniture,West,1406.86,7,140.686,253.23,1266.17,10.0
+CA-2017-123967,Sarah Foster,Furniture,West,2665.62,9,239.9058,479.81,2399.06,9.0
+CA-2016-155845,Chris McAfee,Technology,Central,1399.944,7,52.4979,251.99,1259.95,3.75
+CA-2017-145128,Sean Miller,Furniture,Central,526.45,5,31.587,94.76,473.81,6.0
+CA-2014-129091,Ruben Ausman,Office Supplies,South,675.12,3,290.3016,121.52,607.61,43.0
+US-2016-115455,Sanjit Engle,Furniture,Central,601.47,3,-300.735,108.26,541.32,-50.0
+CA-2017-149048,Brian Moss,Office Supplies,Central,914.97,3,411.7365,164.69,823.47,45.0
+CA-2017-149048,Brian Moss,Technology,Central,587.97,3,158.7519,105.83,529.17,27.0
+CA-2017-149048,Brian Moss,Office Supplies,Central,530.34,2,95.4612,95.46,477.31,18.0
+CA-2016-165848,Edward Nazzal,Technology,East,1349.85,3,364.4595,242.97,1214.87,27.0
+CA-2014-127446,Matt Collister,Furniture,Central,1218.735,5,-121.8735,219.37,1096.86,-10.0
+CA-2017-127180,Tom Ashbrook,Technology,East,11199.968,4,3919.9888,2015.99,10079.97,35.0
+CA-2017-127180,Tom Ashbrook,Technology,East,2399.6,8,647.892,431.93,2159.64,27.0
+US-2017-165344,Sean Braxton,Technology,East,652.995,7,-935.9595,117.54,587.7,-143.33
+CA-2017-108441,Sarah Bern,Furniture,East,858.24,4,143.04,154.48,772.42,16.67
+CA-2014-131002,Tom Boeckenhauer,Furniture,Central,821.88,6,213.6888,147.94,739.69,26.0
+CA-2017-112515,Alan Schoenberger,Furniture,West,1292.94,3,77.5764,232.73,1163.65,6.0
+CA-2015-135538,Harold Ryan,Furniture,West,883.84,4,99.432,159.09,795.46,11.25
+CA-2017-123372,Deirdre Greer,Technology,East,1979.89,11,494.9725,356.38,1781.9,25.0
+CA-2014-126403,Rick Reed,Furniture,East,785.88,6,212.1876,141.46,707.29,27.0
+CA-2014-126403,Rick Reed,Office Supplies,East,1325.85,5,238.653,238.65,1193.26,18.0
+CA-2017-127026,Mick Hernandez,Technology,Central,619.95,5,111.591,111.59,557.96,18.0
+CA-2014-145317,Sean Miller,Technology,South,821.3,4,-16.426,147.83,739.17,-2.0
+CA-2014-145317,Sean Miller,Technology,South,22638.48,6,-1811.0784,4074.93,20374.63,-8.0
+CA-2015-121797,Charles Crestani,Technology,West,1919.976,3,215.9973,345.6,1727.98,11.25
+CA-2017-119193,Sally Knutson,Technology,East,629.958,7,94.4937,113.39,566.96,15.0
+CA-2017-104801,Fred Harton,Technology,West,799.96,4,343.9828,143.99,719.96,43.0
+CA-2014-155887,Kean Thornton,Furniture,East,700.056,3,-130.0104,126.01,630.05,-18.57
+US-2014-141257,Carlos Soltero,Furniture,West,585.552,3,73.194,105.4,527.0,12.5
+CA-2015-155306,George Ashbrook,Technology,West,783.96,5,68.5965,141.11,705.56,8.75
+CA-2015-155306,George Ashbrook,Office Supplies,West,1447.65,5,419.8185,260.58,1302.89,29.0
+CA-2017-167752,Robert Waldorf,Office Supplies,East,1924.16,8,312.676,346.35,1731.74,16.25
+CA-2015-149972,Cynthia Delaney,Furniture,West,601.536,4,0.0,108.28,541.38,0.0
+CA-2014-154599,Kean Nguyen,Technology,West,1075.088,14,94.0702,193.52,967.58,8.75
+CA-2016-153318,Jill Stevenson,Technology,South,783.96,5,78.396,141.11,705.56,10.0
+CA-2015-148635,Michelle Huthwaite,Furniture,West,704.9,5,56.392,126.88,634.41,8.0
+CA-2015-148635,Michelle Huthwaite,Furniture,West,561.568,2,28.0784,101.08,505.41,5.0
+CA-2015-135685,Mike Pelletier,Technology,Central,999.96,4,229.9908,179.99,899.96,23.0
+CA-2015-135685,Mike Pelletier,Furniture,Central,653.55,3,111.1035,117.64,588.19,17.0
+CA-2015-104626,Daniel Raglin,Office Supplies,East,1088.76,6,315.7404,195.98,979.88,29.0
+CA-2016-147368,Toby Carlisle,Technology,South,695.7,2,-27.828,125.23,626.13,-4.0
+US-2014-125521,Christine Kargatis,Furniture,South,1139.92,4,284.98,205.19,1025.93,25.0
+US-2016-162852,Brooke Gillingham,Furniture,Central,845.488,8,-12.0784,152.19,760.94,-1.43
+CA-2017-152093,Skye Norling,Office Supplies,Central,762.594,3,-1143.891,137.27,686.33,-150.0
+CA-2017-157854,Denise Monton,Office Supplies,South,2690.97,3,1264.7559,484.37,2421.87,47.0
+CA-2016-128594,Don Jones,Furniture,West,1603.136,4,100.196,288.56,1442.82,6.25
+CA-2017-138975,Shahid Collister,Furniture,South,1628.82,9,374.6286,293.19,1465.94,23.0
+CA-2017-137022,Scott Williamson,Office Supplies,West,811.28,8,24.3384,146.03,730.15,3.0
+US-2016-167339,Tamara Dahlen,Furniture,West,1013.488,7,76.0116,182.43,912.14,7.5
+US-2016-164630,Erica Bern,Technology,South,959.968,4,119.996,172.79,863.97,12.5
+CA-2016-153577,Katharine Harms,Furniture,Central,539.658,3,-7.7094,97.14,485.69,-1.43
+US-2017-120390,Tracy Hopkins,Office Supplies,South,1633.188,4,-1306.5504,293.97,1469.87,-80.0
+CA-2017-155880,Justin Deggeller,Furniture,Central,1526.56,7,427.4368,274.78,1373.9,28.0
+CA-2017-134915,Eugene Moren,Technology,West,671.984,2,50.3988,120.96,604.79,7.5
+CA-2014-109232,Natalie DeCherney,Furniture,South,545.94,6,87.3504,98.27,491.35,16.0
+CA-2016-139269,Julia Barnett,Office Supplies,South,1267.65,9,152.118,228.18,1140.89,12.0
+CA-2017-147291,Max Jones,Office Supplies,Central,895.92,4,421.0824,161.27,806.33,47.0
+CA-2017-116519,Craig Reiter,Office Supplies,East,904.9,5,253.372,162.88,814.41,28.0
+CA-2017-134845,Sharelle Roach,Technology,West,2549.985,5,-3399.98,459.0,2294.99,-133.33
+US-2016-160528,Mick Hernandez,Office Supplies,Central,727.296,8,-172.7328,130.91,654.57,-23.75
+US-2016-160528,Mick Hernandez,Technology,Central,666.4,7,-33.32,119.95,599.76,-5.0
+CA-2017-116855,Arianne Irving,Furniture,South,504.9,5,80.784,90.88,454.41,16.0
+CA-2017-149559,Karen Ferguson,Furniture,West,2054.272,8,256.784,369.77,1848.84,12.5
+CA-2015-135174,Benjamin Patterson,Technology,East,1022.97,5,-255.7425,184.13,920.67,-25.0
+CA-2016-128517,Sean Wendt,Technology,Central,517.9,2,134.654,93.22,466.11,26.0
+US-2015-100377,Todd Sumrall,Technology,Central,2799.96,5,874.9875,503.99,2519.96,31.25
+US-2017-120089,Max Ludwig,Office Supplies,East,663.936,4,82.992,119.51,597.54,12.5
+CA-2014-119375,Yoseph Carroll,Office Supplies,East,2934.33,7,792.2691,528.18,2640.9,27.0
+CA-2014-143903,Katherine Murray,Furniture,Central,981.372,2,-140.196,176.65,883.23,-14.29
+US-2017-132297,Dianna Wilson,Technology,South,539.97,3,134.9925,97.19,485.97,25.0
+US-2017-159205,Daniel Byrd,Technology,South,671.93,7,188.1404,120.95,604.74,28.0
+CA-2017-119578,Jason Gross,Office Supplies,East,695.16,6,34.758,125.13,625.64,5.0
+CA-2016-150350,Maxwell Schwartz,Technology,West,837.6,3,62.82,150.77,753.84,7.5
+CA-2016-150350,Maxwell Schwartz,Furniture,West,532.704,6,-39.9528,95.89,479.43,-7.5
+CA-2015-121720,Jim Epp,Furniture,South,1123.92,5,-182.637,202.31,1011.53,-16.25
+CA-2015-121720,Jim Epp,Office Supplies,South,1036.624,2,51.8312,186.59,932.96,5.0
+CA-2015-121720,Jim Epp,Office Supplies,South,563.808,4,21.1428,101.49,507.43,3.75
+CA-2014-136399,Chad Cunningham,Technology,West,627.168,4,70.5564,112.89,564.45,11.25
+CA-2017-131828,Cari Sayre,Furniture,West,963.136,4,108.3528,173.36,866.82,11.25
+CA-2015-147830,Natalie Fritzler,Technology,East,2025.36,6,607.608,364.56,1822.82,30.0
+CA-2015-147830,Natalie Fritzler,Technology,East,1799.994,2,-2639.9912,324.0,1619.99,-146.67
+CA-2017-150497,Suzanne McNair,Office Supplies,Central,735.98,2,331.191,132.48,662.38,45.0
+US-2016-133879,Kean Takahito,Furniture,Central,528.43,5,0.0,95.12,475.59,0.0
+CA-2017-152912,Brian Moss,Technology,East,826.62,3,355.4466,148.79,743.96,43.0
+CA-2017-152912,Brian Moss,Office Supplies,East,1633.14,9,473.6106,293.97,1469.83,29.0
+CA-2017-152912,Brian Moss,Office Supplies,East,544.38,3,157.8702,97.99,489.94,29.0
+CA-2014-158372,Ruben Dartt,Technology,West,601.536,8,60.1536,108.28,541.38,10.0
+CA-2017-104640,Frank Hawley,Office Supplies,East,931.176,3,314.2719,167.61,838.06,33.75
+CA-2014-140662,Thomas Seio,Office Supplies,West,733.95,7,352.296,132.11,660.56,48.0
+CA-2017-133865,Penelope Sewall,Technology,West,3359.952,6,1049.985,604.79,3023.96,31.25
+CA-2014-102988,Greg Maxwell,Office Supplies,South,4164.05,5,83.281,749.53,3747.65,2.0
+CA-2017-113418,Corinna Mitchell,Technology,East,1704.89,11,767.2005,306.88,1534.4,45.0
+CA-2017-136308,Mitch Willingham,Technology,West,1919.976,3,215.9973,345.6,1727.98,11.25
+US-2014-159926,Carlos Soltero,Technology,East,539.964,6,-107.9928,97.19,485.97,-20.0
+US-2014-133130,Thea Hendricks,Furniture,West,603.92,5,45.294,108.71,543.53,7.5
+CA-2014-134551,Tony Sayre,Furniture,South,662.88,3,74.574,119.32,596.59,11.25
+CA-2014-165309,Karen Daniels,Office Supplies,Central,896.99,5,-1480.0335,161.46,807.29,-165.0
+US-2017-109253,Patrick Ryan,Furniture,West,568.728,3,28.4364,102.37,511.86,5.0
+CA-2016-134887,Toby Braunhardt,Technology,Central,1287.45,5,244.6155,231.74,1158.71,19.0
+CA-2015-130659,Maribeth Schnelling,Technology,East,1799.75,5,539.925,323.96,1619.78,30.0
+CA-2017-148404,Dean percer,Office Supplies,South,580.672,4,65.3256,104.52,522.6,11.25
+CA-2014-166471,Matthew Grinstein,Technology,West,1091.168,4,68.198,196.41,982.05,6.25
+CA-2014-102274,Dave Hallsten,Office Supplies,South,629.1,6,301.968,113.24,566.19,48.0
+CA-2016-134803,Clay Ludtke,Technology,West,558.4,2,41.88,100.51,502.56,7.5
+CA-2015-153381,Deanra Eno,Furniture,Central,1408.1,10,394.268,253.46,1267.29,28.0
+CA-2017-168858,Justin Deggeller,Office Supplies,East,2504.74,7,626.185,450.85,2254.27,25.0
+CA-2017-136448,Adam Shillingsburg,Office Supplies,East,538.194,2,-412.6154,96.87,484.37,-76.67
+CA-2016-131289,Stefania Perrino,Furniture,West,1421.664,6,-195.4788,255.9,1279.5,-13.75
+CA-2014-124688,Corey Catlett,Technology,South,579.95,5,168.1855,104.39,521.96,29.0
+CA-2014-124688,Corey Catlett,Furniture,South,1202.94,3,300.735,216.53,1082.65,25.0
+CA-2017-142034,Karen Bern,Technology,Central,655.9,5,275.478,118.06,590.31,42.0
+CA-2017-142034,Karen Bern,Furniture,Central,603.92,4,181.176,108.71,543.53,30.0
+CA-2016-107328,Cathy Armstrong,Furniture,West,513.024,2,12.8256,92.34,461.72,2.5
+CA-2016-150945,Julie Kriz,Office Supplies,East,900.08,4,117.0104,162.01,810.07,13.0
+CA-2014-166863,Sam Craven,Office Supplies,Central,509.488,7,-127.372,91.71,458.54,-25.0
+CA-2017-140326,Helen Wasserman,Furniture,Central,825.174,9,-117.882,148.53,742.66,-14.29
+US-2016-113649,Helen Andreada,Office Supplies,South,569.536,4,64.0728,102.52,512.58,11.25
+CA-2015-124975,Michael Grace,Furniture,Central,796.425,7,-525.6405,143.36,716.78,-66.0
+CA-2016-132731,George Ashbrook,Technology,Central,657.552,6,49.3164,118.36,591.8,7.5
+CA-2017-148922,Stephanie Ulpright,Technology,South,599.97,3,257.9871,107.99,539.97,43.0
+CA-2016-152555,Maria Etezadi,Furniture,Central,844.116,6,-36.1764,151.94,759.7,-4.29
+CA-2016-152555,Maria Etezadi,Technology,Central,812.736,8,60.9552,146.29,731.46,7.5
+CA-2014-120838,Patrick O'Donnell,Technology,West,604.752,6,37.797,108.86,544.28,6.25
+CA-2017-103877,Robert Dilbeck,Office Supplies,Central,1577.94,3,757.4112,284.03,1420.15,48.0
+CA-2017-168109,Jim Kriz,Technology,West,2395.2,6,209.58,431.14,2155.68,8.75
+CA-2017-168109,Jim Kriz,Technology,West,1687.8,4,742.632,303.8,1519.02,44.0
+CA-2016-104157,Meg Tillman,Furniture,South,2430.08,8,388.8128,437.41,2187.07,16.0
+CA-2015-121650,Keith Dawkins,Furniture,Central,801.96,2,200.49,144.35,721.76,25.0
+CA-2017-121839,Mick Hernandez,Technology,East,1169.694,3,-253.4337,210.54,1052.72,-21.67
+CA-2017-158729,Amy Cox,Office Supplies,South,1665.62,2,33.3124,299.81,1499.06,2.0
+CA-2017-146535,Frank Merwin,Office Supplies,South,1443.96,12,375.4296,259.91,1299.56,26.0
+CA-2014-159835,Randy Bradley,Furniture,East,657.93,5,-93.99,118.43,592.14,-14.29
+CA-2017-112529,Stewart Carmichael,Furniture,Central,718.116,6,-71.8116,129.26,646.3,-10.0
+CA-2017-113530,Becky Castell,Furniture,West,681.408,12,42.588,122.65,613.27,6.25
+CA-2014-169726,Joseph Holt,Office Supplies,West,2060.744,7,643.9825,370.93,1854.67,31.25
+CA-2017-132178,Darren Budd,Office Supplies,West,763.44,8,45.8064,137.42,687.1,6.0
+CA-2017-133004,Ashley Jarboe,Office Supplies,Central,638.73,9,166.0698,114.97,574.86,26.0
+CA-2015-104941,Dave Hallsten,Technology,South,899.97,3,314.9895,161.99,809.97,35.0
+CA-2017-113670,Roland Schwarz,Furniture,West,510.24,3,6.378,91.84,459.22,1.25
+CA-2014-135608,Jim Karlsson,Furniture,West,603.92,5,45.294,108.71,543.53,7.5
+US-2014-169789,Maureen Fritzler,Office Supplies,West,551.985,5,-459.9875,99.36,496.79,-83.33
+CA-2015-109575,Ken Heidel,Office Supplies,East,636.86,7,0.0,114.63,573.17,0.0
+CA-2015-109575,Ken Heidel,Technology,East,1259.93,7,327.5818,226.79,1133.94,26.0
+CA-2017-161956,Dan Reichenbach,Technology,West,879.984,2,329.994,158.4,791.99,37.5
+CA-2017-161956,Dan Reichenbach,Office Supplies,West,841.568,2,294.5488,151.48,757.41,35.0
+CA-2016-116799,Jason Gross,Furniture,Central,563.43,5,-56.343,101.42,507.09,-10.0
+CA-2014-153913,Ken Black,Furniture,South,1013.832,9,101.3832,182.49,912.45,10.0
+CA-2016-155530,Charles McCrossin,Furniture,West,2003.52,6,-325.572,360.63,1803.17,-16.25
+CA-2017-165204,Michael Nguyen,Office Supplies,South,720.064,4,-63.0056,129.61,648.06,-8.75
+CA-2016-144218,Jonathan Doherty,Office Supplies,West,1085.42,7,282.2092,195.38,976.88,26.0
+CA-2017-147760,Kelly Lampkin,Furniture,South,523.764,3,-192.0468,94.28,471.39,-36.67
+CA-2017-147760,Kelly Lampkin,Technology,South,1359.96,5,118.9965,244.79,1223.96,8.75
+CA-2015-113628,Anna H�berlin,Furniture,South,523.92,5,-72.039,94.31,471.53,-13.75
+CA-2016-152471,Zuschuss Donatelli,Technology,South,823.96,5,51.4975,148.31,741.56,6.25
+CA-2015-102582,Natalie Webber,Furniture,South,801.96,2,200.49,144.35,721.76,25.0
+CA-2015-102582,Natalie Webber,Furniture,South,1056.86,7,306.4894,190.23,951.17,29.0
+CA-2015-140984,Craig Carroll,Office Supplies,East,991.2,6,257.712,178.42,892.08,26.0
+CA-2015-140984,Craig Carroll,Technology,East,879.984,2,329.994,158.4,791.99,37.5
+CA-2017-141733,Rick Wilson,Furniture,Central,1458.65,5,423.0085,262.56,1312.79,29.0
+CA-2014-105984,Muhammed Yedwab,Technology,East,1049.97,5,-209.994,188.99,944.97,-20.0
+CA-2014-105984,Muhammed Yedwab,Furniture,East,611.058,3,-34.9176,109.99,549.95,-5.71
+CA-2014-126760,Kunst Miller,Technology,West,911.984,2,113.998,164.16,820.79,12.5
+CA-2014-126760,Kunst Miller,Furniture,West,674.352,3,-109.5822,121.38,606.92,-16.25
+CA-2014-101931,Todd Sumrall,Furniture,West,616.998,6,-36.294,111.06,555.3,-5.88
+CA-2017-129000,Sam Zeldin,Office Supplies,Central,501.81,3,0.0,90.33,451.63,0.0
+CA-2017-161053,Joel Eaton,Office Supplies,South,691.96,4,318.3016,124.55,622.76,46.0
+US-2017-105389,Darrin Martin,Technology,Central,823.96,5,51.4975,148.31,741.56,6.25
+CA-2015-132486,Jay Fein,Furniture,West,842.352,3,42.1176,151.62,758.12,5.0
+US-2016-163881,Sung Pak,Technology,West,659.9,2,217.767,118.78,593.91,33.0
+US-2016-163881,Sung Pak,Furniture,West,1684.752,6,210.594,303.26,1516.28,12.5
+US-2016-163881,Sung Pak,Technology,West,559.92,8,190.3728,100.79,503.93,34.0
+CA-2015-167010,Valerie Takahito,Office Supplies,East,563.808,4,21.1428,101.49,507.43,3.75
+CA-2015-167010,Valerie Takahito,Furniture,East,547.136,4,-68.392,98.48,492.42,-12.5
+US-2017-142573,Maris LaWare,Furniture,West,801.6,5,-448.896,144.29,721.44,-56.0
+US-2016-143448,Mark Hamilton,Furniture,Central,1424.9,5,356.225,256.48,1282.41,25.0
+US-2016-142685,Maureen Gnade,Office Supplies,East,835.17,7,16.7034,150.33,751.65,2.0
+CA-2016-135265,Christopher Conant,Technology,West,2799.96,5,944.9865,503.99,2519.96,33.75
+CA-2017-112333,Karen Ferguson,Office Supplies,East,2591.56,4,621.9744,466.48,2332.4,24.0
+CA-2015-105627,Dana Kaydos,Furniture,Central,512.94,3,97.4586,92.33,461.65,19.0
+CA-2015-105627,Dana Kaydos,Furniture,Central,860.93,7,189.4046,154.97,774.84,22.0
+CA-2015-105627,Dana Kaydos,Technology,Central,769.95,5,223.2855,138.59,692.96,29.0
+CA-2016-145730,Chris Cortes,Furniture,Central,637.896,3,-127.5792,114.82,574.11,-20.0
+CA-2015-165624,Fred Harton,Office Supplies,South,542.94,3,152.0232,97.73,488.65,28.0
+CA-2014-154963,Anna Andreadi,Furniture,East,853.93,5,0.0,153.71,768.54,0.0
+CA-2017-130764,Jack O'Briant,Furniture,West,556.665,5,6.549,100.2,501.0,1.18
+CA-2014-110786,Anthony Johnson,Technology,West,767.952,6,287.982,138.23,691.16,37.5
+US-2015-166520,Katrina Edelman,Technology,East,599.9,10,191.968,107.98,539.91,32.0
+CA-2014-122931,Suzanne McNair,Office Supplies,East,1801.632,6,-337.806,324.29,1621.47,-18.75
+CA-2014-163034,Darren Koutras,Office Supplies,Central,646.2,5,-8.0775,116.32,581.58,-1.25
+CA-2015-124058,Lena Creighton,Furniture,West,572.16,3,35.76,102.99,514.94,6.25
+CA-2014-102673,Ken Heidel,Technology,South,978.84,9,110.1195,176.19,880.96,11.25
+CA-2015-156104,Nora Pelletier,Technology,Central,999.98,2,449.991,180.0,899.98,45.0
+US-2015-164308,Steve Carroll,Technology,Central,821.94,6,213.7044,147.95,739.75,26.0
+US-2014-156559,Lena Hernandez,Furniture,South,638.82,9,172.4814,114.99,574.94,27.0
+CA-2015-102491,Katrina Willman,Technology,South,3080.0,7,1416.8,554.4,2772.0,46.0
+CA-2015-102491,Katrina Willman,Technology,South,587.97,3,170.5113,105.83,529.17,29.0
+CA-2014-116904,Sanjit Chand,Office Supplies,Central,9449.95,5,4630.4755,1700.99,8504.96,49.0
+CA-2016-163573,Amy Cox,Office Supplies,West,1219.96,5,381.2375,219.59,1097.96,31.25
+CA-2014-127299,John Lee,Technology,South,2624.985,3,-944.9946,472.5,2362.49,-36.0
+CA-2017-105914,Paul Van Hugh,Office Supplies,West,1575.14,7,204.7682,283.53,1417.63,13.0
+CA-2017-115546,Amy Hunt,Technology,East,539.97,3,134.9925,97.19,485.97,25.0
+CA-2015-163587,Emily Phan,Office Supplies,East,671.94,3,315.8118,120.95,604.75,47.0
+CA-2014-128846,Roland Schwarz,Technology,South,629.95,5,163.787,113.39,566.96,26.0
+CA-2017-166709,Hunter Lopez,Technology,East,10499.97,3,5039.9856,1889.99,9449.97,48.0
+CA-2015-150875,Heather Kirkland,Furniture,West,696.42,2,160.1766,125.36,626.78,23.0
+CA-2015-143105,Matt Abelman,Technology,East,799.984,2,249.995,144.0,719.99,31.25
+CA-2014-145387,Anne McFarland,Furniture,East,1604.9,5,481.47,288.88,1444.41,30.0
+CA-2017-149881,Nick Crebassa,Technology,West,4799.984,2,359.9988,864.0,4319.99,7.5
+CA-2017-117702,Lindsay Shagiari,Furniture,East,1049.2,5,272.792,188.86,944.28,26.0
+CA-2016-157336,Shirley Jackson,Furniture,East,751.92,4,150.384,135.35,676.73,20.0
+CA-2014-168130,Bill Shonely,Furniture,East,887.103,7,177.4206,159.68,798.39,20.0
+US-2016-131611,Emily Phan,Furniture,Central,863.128,8,-160.2952,155.36,776.82,-18.57
+US-2016-131611,Emily Phan,Furniture,Central,956.6648,7,-225.0976,172.2,861.0,-23.53
+US-2017-124821,Anne McFarland,Furniture,West,871.4,4,148.138,156.85,784.26,17.0
+CA-2015-166975,Stefanie Holloman,Furniture,South,692.472,11,190.4298,124.64,623.22,27.5
+US-2016-107440,Bill Shonely,Technology,East,9099.93,7,2365.9818,1637.99,8189.94,26.0
+CA-2014-103100,Adrian Barton,Office Supplies,Central,1103.97,3,496.7865,198.71,993.57,45.0
+CA-2017-102407,Alyssa Tate,Furniture,West,896.328,9,22.4082,161.34,806.7,2.5
+CA-2017-129021,Patrick O'Brill,Technology,South,4367.896,13,327.5922,786.22,3931.11,7.5
+CA-2014-125829,William Brown,Technology,West,666.344,7,66.6344,119.94,599.71,10.0
+CA-2014-125829,William Brown,Furniture,West,573.728,4,-64.5444,103.27,516.36,-11.25
+CA-2017-130309,Giulietta Baptist,Office Supplies,South,544.38,3,157.8702,97.99,489.94,29.0
+CA-2017-105410,Natalie DeCherney,Technology,West,657.504,6,-131.5008,118.35,591.75,-20.0
+CA-2016-120355,Magdelene Morse,Furniture,East,631.782,2,140.396,113.72,568.6,22.22
+CA-2015-155600,Rose O'Brian,Office Supplies,South,1598.058,7,-1065.372,287.65,1438.25,-66.67
+CA-2017-162565,Ralph Ritter,Furniture,Central,520.464,2,-14.8704,93.68,468.42,-2.86
+CA-2017-111332,Nat Carroll,Office Supplies,Central,704.76,4,162.0948,126.86,634.28,23.0
+CA-2014-166954,Beth Thompson,Furniture,West,1487.04,5,148.704,267.67,1338.34,10.0
+US-2015-122784,Russell Applegate,Furniture,Central,913.43,5,-52.196,164.42,822.09,-5.71
+CA-2017-111556,Carlos Daly,Technology,East,1259.97,3,327.5922,226.79,1133.97,26.0
+CA-2016-131737,Gary Zandusky,Office Supplies,East,901.95,3,297.6435,162.35,811.76,33.0
+CA-2016-131737,Gary Zandusky,Furniture,East,971.5,5,252.59,174.87,874.35,26.0
+CA-2014-130624,Toby Braunhardt,Technology,East,617.97,3,160.6722,111.23,556.17,26.0
+CA-2014-153983,Alan Hwang,Technology,West,575.92,2,71.99,103.67,518.33,12.5
+CA-2017-119452,Clay Ludtke,Furniture,Central,1805.88,6,523.7052,325.06,1625.29,29.0
+CA-2016-168893,Arthur Prichep,Furniture,South,842.94,3,160.1586,151.73,758.65,19.0
+US-2016-111290,Dennis Kane,Office Supplies,Central,965.85,5,135.219,173.85,869.27,14.0
+CA-2016-147137,Anna Andreadi,Furniture,West,1279.165,5,225.735,230.25,1151.25,17.65
+CA-2017-105851,Sanjit Engle,Office Supplies,West,1332.496,2,-299.8116,239.85,1199.25,-22.5
+CA-2014-150798,Joe Kamberova,Technology,East,659.988,2,109.998,118.8,593.99,16.67
+CA-2014-150798,Joe Kamberova,Furniture,East,909.72,6,-51.984,163.75,818.75,-5.71
+CA-2017-112753,Craig Carreira,Furniture,West,917.9235,9,75.5937,165.23,826.13,8.24
+CA-2017-155075,Giulietta Weimer,Office Supplies,East,631.176,4,-462.8624,113.61,568.06,-73.33
+US-2014-138247,Ben Ferrer,Technology,West,818.376,3,51.1485,147.31,736.54,6.25
+CA-2017-107167,Neil Ducich,Office Supplies,South,1347.52,8,84.22,242.55,1212.77,6.25
+CA-2015-126557,Rob Lucas,Technology,Central,537.544,7,53.7544,96.76,483.79,10.0
+CA-2015-126557,Rob Lucas,Technology,Central,659.168,4,49.4376,118.65,593.25,7.5
+CA-2016-139395,Matthew Grinstein,Technology,Central,657.93,7,184.2204,118.43,592.14,28.0
+US-2017-163790,Nancy Lomonaco,Office Supplies,West,590.352,6,206.6232,106.26,531.32,35.0
+CA-2016-129868,Mike Caudle,Furniture,West,902.712,3,33.8517,162.49,812.44,3.75
+CA-2015-135020,Maxwell Schwartz,Office Supplies,East,535.41,3,160.623,96.37,481.87,30.0
+CA-2015-117800,Tracy Hopkins,Technology,East,589.9,2,147.475,106.18,530.91,25.0
+CA-2015-117800,Tracy Hopkins,Furniture,East,542.94,3,141.1644,97.73,488.65,26.0
+CA-2017-145219,Robert Marley,Technology,West,2879.952,6,1007.9832,518.39,2591.96,35.0
+CA-2015-130456,David Smith,Furniture,West,586.398,6,34.494,105.55,527.76,5.88
+CA-2016-102162,Jill Fjeld,Technology,South,1599.92,8,751.9624,287.99,1439.93,47.0
+CA-2017-130141,Helen Abelman,Furniture,West,579.136,4,-28.9568,104.24,521.22,-5.0
+CA-2015-147501,Corey-Lock,Technology,West,558.4,2,41.88,100.51,502.56,7.5
+CA-2015-112130,Stewart Visinsky,Furniture,East,844.116,6,-36.1764,151.94,759.7,-4.29
+US-2017-133200,Dorothy Badders,Furniture,Central,623.4648,7,-119.1918,112.22,561.12,-19.12
+US-2017-133200,Dorothy Badders,Office Supplies,Central,772.68,5,-57.951,139.08,695.41,-7.5
+CA-2016-133550,Ken Lonsdale,Technology,Central,635.96,4,165.3496,114.47,572.36,26.0
+CA-2016-127698,Mike Vittorini,Technology,South,863.928,9,86.3928,155.51,777.54,10.0
+US-2015-138121,John Lee,Furniture,Central,546.66,9,136.665,98.4,491.99,25.0
+CA-2017-138149,William Brown,Office Supplies,West,895.92,5,302.373,161.27,806.33,33.75
+CA-2017-143126,Corinna Mitchell,Furniture,West,521.96,2,88.7332,93.95,469.76,17.0
+CA-2016-131968,Laurel Beltran,Office Supplies,South,671.544,3,50.3658,120.88,604.39,7.5
+CA-2014-119151,Mike Pelletier,Office Supplies,East,1117.92,4,55.896,201.23,1006.13,5.0
+CA-2016-120530,Dorris liebe,Furniture,East,658.746,3,146.388,118.57,592.87,22.22
+CA-2016-127649,Dionis Lloyd,Technology,West,837.6,3,62.82,150.77,753.84,7.5
+CA-2014-121573,Speros Goranitis,Technology,East,783.96,4,219.5088,141.11,705.56,28.0
+US-2014-167262,Amy Cox,Technology,West,742.336,8,83.5128,133.62,668.1,11.25
+CA-2014-159310,Steven Cartwright,Furniture,Central,683.144,4,0.0,122.97,614.83,0.0
+CA-2016-121370,Eugene Barchas,Technology,East,1199.976,4,179.9964,216.0,1079.98,15.0
+CA-2014-107818,Marc Crier,Furniture,West,975.92,5,121.99,175.67,878.33,12.5
+CA-2016-101546,Grace Kelly,Office Supplies,East,1793.98,2,843.1706,322.92,1614.58,47.0
+CA-2014-138940,Gary Mitchum,Technology,Central,758.352,6,265.4232,136.5,682.52,35.0
+CA-2017-122490,Ted Trevino,Furniture,West,2404.704,6,150.294,432.85,2164.23,6.25
+CA-2017-122490,Ted Trevino,Office Supplies,West,563.024,11,190.0206,101.34,506.72,33.75
+CA-2017-143567,Thomas Boland,Furniture,South,975.92,4,292.776,175.67,878.33,30.0
+CA-2017-143567,Thomas Boland,Technology,South,2249.91,9,517.4793,404.98,2024.92,23.0
+CA-2016-163167,Randy Ferguson,Office Supplies,South,1126.02,3,56.301,202.68,1013.42,5.0
+CA-2016-163167,Randy Ferguson,Office Supplies,South,1263.3,6,315.825,227.39,1136.97,25.0
+CA-2016-135776,Edward Hooks,Office Supplies,West,1117.92,4,55.896,201.23,1006.13,5.0
+US-2014-161613,Matt Connell,Furniture,Central,674.058,3,-19.2588,121.33,606.65,-2.86
+CA-2017-114055,Mick Hernandez,Office Supplies,South,629.1,6,301.968,113.24,566.19,48.0
+CA-2017-143245,Alan Dominguez,Furniture,East,897.15,3,251.202,161.49,807.44,28.0
+CA-2014-157147,Brian Dahlen,Office Supplies,West,1325.85,5,238.653,238.65,1193.26,18.0
+CA-2015-156482,Ivan Liston,Furniture,East,1268.82,9,266.4522,228.39,1141.94,21.0
+CA-2015-142202,Justin Ritter,Technology,South,717.12,9,152.388,129.08,645.41,21.25
+CA-2015-165050,Alan Hwang,Technology,East,773.94,6,224.4426,139.31,696.55,29.0
+CA-2016-149279,Craig Leslie,Furniture,West,1325.76,6,149.148,238.64,1193.18,11.25
+CA-2017-107321,Arthur Wiediger,Technology,West,689.408,4,77.5584,124.09,620.47,11.25
+US-2017-122714,Henry Goldwyn,Office Supplies,Central,1889.99,5,-2929.4845,340.2,1700.99,-155.0
+CA-2015-158659,Steve Chapman,Office Supplies,Central,714.3,5,207.147,128.57,642.87,29.0
+CA-2015-169796,Dean percer,Technology,East,2321.9,2,1114.512,417.94,2089.71,48.0
+CA-2015-102876,Lisa Ryan,Technology,East,791.964,6,-131.994,142.55,712.77,-16.67
+CA-2014-153850,Thea Hendricks,Technology,East,1502.376,4,-250.396,270.43,1352.14,-16.67
+CA-2014-127558,Shahid Shariari,Technology,West,772.47,3,146.7693,139.04,695.22,19.0
+CA-2016-133795,Jeremy Ellison,Technology,West,772.47,3,146.7693,139.04,695.22,19.0
+CA-2015-103954,Hallie Redmond,Furniture,Central,687.4,5,48.118,123.73,618.66,7.0
+CA-2014-169803,Scott Cohen,Furniture,West,653.55,3,111.1035,117.64,588.19,17.0
+CA-2015-136469,Todd Sumrall,Technology,East,716.0,2,193.32,128.88,644.4,27.0
+CA-2016-158694,Arianne Irving,Office Supplies,West,720.76,4,187.3976,129.74,648.68,26.0
+CA-2015-141243,Amy Hunt,Furniture,Central,1352.3976,9,-437.5404,243.43,1217.16,-32.35
+CA-2016-109722,Theone Pippenger,Technology,South,699.98,2,195.9944,126.0,629.98,28.0
+CA-2016-109722,Theone Pippenger,Office Supplies,South,584.82,9,70.1784,105.27,526.34,12.0
+CA-2017-142090,Shahid Collister,Furniture,South,1781.682,7,-653.2834,320.7,1603.51,-36.67
+CA-2014-124478,Matt Abelman,Technology,Central,549.99,1,274.995,99.0,494.99,50.0
+CA-2014-134572,Seth Vernon,Furniture,Central,744.1,5,-95.67,133.94,669.69,-12.86
+CA-2015-127173,Gene McClure,Technology,East,629.93,7,296.0671,113.39,566.94,47.0
+CA-2014-160766,Darrin Martin,Technology,East,2799.96,4,1371.9804,503.99,2519.96,49.0
+CA-2014-160766,Darrin Martin,Office Supplies,East,601.3,2,198.429,108.23,541.17,33.0
+CA-2016-111213,Frank Preis,Furniture,East,1317.492,6,292.776,237.15,1185.74,22.22
+CA-2017-128734,James Lanier,Furniture,West,842.376,3,105.297,151.63,758.14,12.5
+CA-2014-141796,James Galang,Technology,East,1214.85,3,352.3065,218.67,1093.37,29.0
+CA-2017-163006,Gary Hansen,Technology,Central,1001.584,2,125.198,180.29,901.43,12.5
+CA-2017-163006,Gary Hansen,Furniture,Central,569.058,3,-178.8468,102.43,512.15,-31.43
+CA-2014-111192,Tom Stivers,Furniture,West,1367.84,8,259.8896,246.21,1231.06,19.0
+CA-2014-121006,Sam Craven,Furniture,Central,563.94,3,112.788,101.51,507.55,20.0
+CA-2014-121006,Sam Craven,Office Supplies,Central,535.41,3,160.623,96.37,481.87,30.0
+CA-2016-122903,Laura Armstrong,Furniture,Central,3504.9,5,700.98,630.88,3154.41,20.0
+CA-2015-134719,John Dryer,Office Supplies,South,1801.632,6,-337.806,324.29,1621.47,-18.75
+US-2015-154389,Eugene Hildebrand,Technology,East,748.752,8,-162.2296,134.78,673.88,-21.67
+CA-2015-115567,Zuschuss Carroll,Furniture,Central,1516.2,7,394.212,272.92,1364.58,26.0
+CA-2016-103982,Alex Avila,Office Supplies,Central,3930.072,3,-786.0144,707.41,3537.06,-20.0
+CA-2017-117401,Paul Prost,Office Supplies,Central,706.86,7,197.9208,127.23,636.17,28.0
+CA-2017-124436,Sue Ann Reed,Furniture,West,697.16,5,8.7145,125.49,627.44,1.25
+CA-2014-115084,Luke Schmidt,Furniture,South,605.34,6,145.2816,108.96,544.81,24.0
+CA-2015-162887,Stewart Visinsky,Furniture,East,715.2,3,178.8,128.74,643.68,25.0
+CA-2014-146283,Kean Takahito,Furniture,Central,966.7,5,-13.81,174.01,870.03,-1.43
+CA-2017-108791,Tony Molinari,Technology,East,543.92,8,135.98,97.91,489.53,25.0
+CA-2016-113831,Anna H�berlin,Furniture,South,2275.5,10,386.835,409.59,2047.95,17.0
+CA-2016-113831,Anna H�berlin,Technology,South,1979.7,6,653.301,356.35,1781.73,33.0
+CA-2017-131254,Nathan Cano,Office Supplies,Central,1525.188,6,-2287.782,274.53,1372.67,-150.0
+US-2017-162558,Dean percer,Furniture,South,2314.116,7,-1002.7836,416.54,2082.7,-43.33
+CA-2015-146486,Dianna Vittorini,Technology,East,899.95,5,53.997,161.99,809.96,6.0
+CA-2017-108539,Steven Cartwright,Office Supplies,West,725.84,4,210.4936,130.65,653.26,29.0
+CA-2017-100951,Noah Childs,Office Supplies,Central,720.76,5,54.057,129.74,648.68,7.5
+CA-2017-161410,Chris Cortes,Technology,East,545.916,14,72.7888,98.26,491.32,13.33
+US-2014-123183,Georgia Rosenberg,Furniture,East,1025.88,6,235.9524,184.66,923.29,23.0
+CA-2016-117681,Herbert Flentye,Furniture,West,556.665,5,6.549,100.2,501.0,1.18
+CA-2016-153598,Neoma Murray,Technology,West,1649.95,5,659.98,296.99,1484.96,40.0
+US-2016-108497,Marc Harrigan,Furniture,West,599.165,5,35.245,107.85,539.25,5.88
+CA-2015-160171,Robert Marley,Office Supplies,West,1640.7,5,459.396,295.33,1476.63,28.0
+CA-2016-167115,Evan Henry,Office Supplies,East,588.784,2,183.995,105.98,529.91,31.25
+CA-2017-116680,Pete Kriz,Furniture,West,1478.272,8,92.392,266.09,1330.44,6.25
+CA-2014-132451,Karen Ferguson,Furniture,West,585.552,3,73.194,105.4,527.0,12.5
+CA-2017-121741,Yoseph Carroll,Office Supplies,Central,750.68,2,37.534,135.12,675.61,5.0
+CA-2017-164378,Michelle Moray,Furniture,East,664.146,6,88.5528,119.55,597.73,13.33
+CA-2017-127782,Thea Hudgings,Technology,East,859.2,4,-186.16,154.66,773.28,-21.67
+US-2016-138408,Karen Carlisle,Technology,South,1319.96,4,527.984,237.59,1187.96,40.0
+CA-2017-160885,Juliana Krohn,Technology,Central,2479.96,4,743.988,446.39,2231.96,30.0
+US-2015-114741,Ivan Liston,Office Supplies,West,1325.85,5,238.653,238.65,1193.26,18.0
+CA-2017-133263,Jim Epp,Technology,South,2999.95,5,1439.976,539.99,2699.96,48.0
+CA-2017-157966,Stephanie Ulpright,Technology,Central,959.984,2,335.9944,172.8,863.99,35.0
+CA-2017-105333,Victor Preis,Technology,East,546.06,3,163.818,98.29,491.45,30.0
+CA-2015-142475,Bill Stewart,Office Supplies,East,590.352,6,206.6232,106.26,531.32,35.0
+CA-2017-117198,Barry Gonzalez,Technology,South,659.9,2,217.767,118.78,593.91,33.0
+CA-2017-121027,Helen Wasserman,Technology,West,843.9,2,371.316,151.9,759.51,44.0
+CA-2017-121027,Helen Wasserman,Technology,West,1496.16,9,224.424,269.31,1346.54,15.0
+CA-2016-158001,Jennifer Patt,Office Supplies,East,1040.8,5,281.016,187.34,936.72,27.0
+CA-2014-126683,Paul Prost,Furniture,West,2348.82,9,399.2994,422.79,2113.94,17.0
+US-2016-146066,Rick Bensley,Furniture,East,815.292,9,-339.705,146.75,733.76,-41.67
+CA-2014-127614,Natalie Fritzler,Furniture,South,1256.22,6,75.3732,226.12,1130.6,6.0
+CA-2014-154893,Gary McGarr,Furniture,West,1325.76,6,149.148,238.64,1193.18,11.25
+CA-2014-154893,Gary McGarr,Furniture,West,572.16,3,35.76,102.99,514.94,6.25
+CA-2017-142342,Anthony Johnson,Furniture,West,1194.165,5,210.735,214.95,1074.75,17.65
+CA-2016-108875,Craig Leslie,Office Supplies,West,511.056,9,-95.823,91.99,459.95,-18.75
+CA-2014-164315,Rob Dowd,Technology,South,1049.93,7,293.9804,188.99,944.94,28.0
+US-2015-138093,Kalyca Meade,Furniture,East,542.94,3,141.1644,97.73,488.65,26.0
+US-2015-160857,Natalie Webber,Technology,East,2799.944,7,1014.9797,503.99,2519.95,36.25
+CA-2015-124107,Brian Moss,Technology,Central,619.95,5,111.591,111.59,557.96,18.0
+CA-2015-103933,Dan Reichenbach,Technology,East,899.91,9,395.9604,161.98,809.92,44.0
+CA-2015-110548,Anna H�berlin,Technology,Central,946.344,7,118.293,170.34,851.71,12.5
+CA-2017-117324,Jeremy Pistek,Office Supplies,Central,1089.75,3,305.13,196.16,980.78,28.0
+CA-2017-143574,Dan Reichenbach,Furniture,East,638.82,9,185.2578,114.99,574.94,29.0
+US-2017-147886,Dave Hallsten,Technology,West,532.72,2,53.272,95.89,479.45,10.0
+US-2017-147886,Dave Hallsten,Office Supplies,West,795.48,7,7.9548,143.19,715.93,1.0
+CA-2016-118514,Liz Carlisle,Furniture,South,866.4,4,225.264,155.95,779.76,26.0
+CA-2014-163748,Hunter Glantz,Technology,Central,1999.96,5,624.9875,359.99,1799.96,31.25
+CA-2017-158169,Justin MacKendrick,Office Supplies,West,542.94,3,152.0232,97.73,488.65,28.0
+CA-2015-162047,Fred Hopkins,Furniture,East,1448.82,10,209.274,260.79,1303.94,14.44
+CA-2015-103835,Shaun Chance,Office Supplies,West,1158.12,4,335.8548,208.46,1042.31,29.0
+CA-2015-158939,Erin Ashbrook,Technology,Central,599.99,1,233.9961,108.0,539.99,39.0
+CA-2016-142398,Beth Paige,Furniture,West,638.288,7,-31.9144,114.89,574.46,-5.0
+CA-2014-124856,Lisa DeCherney,Office Supplies,East,1395.54,9,362.8404,251.2,1255.99,26.0
+CA-2014-123225,Michael Nguyen,Technology,Central,575.968,4,43.1976,103.67,518.37,7.5
+US-2015-163279,Justin Deggeller,Technology,West,1487.976,3,185.997,267.84,1339.18,12.5
+CA-2016-122063,Michael Moore,Furniture,Central,581.96,2,104.7528,104.75,523.76,18.0
+CA-2015-111206,Roland Fjeld,Technology,West,519.96,4,176.7864,93.59,467.96,34.0
+CA-2015-126725,Brian Stugart,Office Supplies,West,777.21,7,54.4047,139.9,699.49,7.0
+CA-2015-121783,Philisse Overcash,Office Supplies,Central,715.64,2,178.91,128.82,644.08,25.0
+CA-2015-121783,Philisse Overcash,Office Supplies,Central,795.51,3,143.1918,143.19,715.96,18.0
+CA-2015-121783,Philisse Overcash,Technology,Central,549.99,1,274.995,99.0,494.99,50.0
+US-2014-117968,Ricardo Sperren,Furniture,East,1133.35,5,294.671,204.0,1020.02,26.0
+CA-2016-152247,Michelle Arnett,Furniture,West,1603.136,4,100.196,288.56,1442.82,6.25
+CA-2016-128223,Ed Braxton,Furniture,West,1293.488,7,80.843,232.83,1164.14,6.25
+CA-2016-133935,Jane Waco,Furniture,West,801.568,2,50.098,144.28,721.41,6.25
+CA-2016-133935,Jane Waco,Furniture,West,885.528,9,-99.6219,159.4,796.98,-11.25
+CA-2016-136301,Edward Hooks,Office Supplies,West,4912.59,3,196.5036,884.27,4421.33,4.0
+US-2015-126977,Peter Fuller,Furniture,East,4228.704,6,158.5764,761.17,3805.83,3.75
+US-2015-126977,Peter Fuller,Furniture,East,2003.92,5,-25.049,360.71,1803.53,-1.25
+US-2015-126977,Peter Fuller,Technology,East,659.9,2,217.767,118.78,593.91,33.0
+CA-2017-150420,Giulietta Dortch,Technology,West,1099.5,10,362.835,197.91,989.55,33.0
+US-2014-118997,Ruben Ausman,Furniture,South,1215.92,8,316.1392,218.87,1094.33,26.0
+US-2017-169551,Rob Lucas,Technology,East,683.988,2,-113.998,123.12,615.59,-16.67
+US-2017-169551,Rob Lucas,Technology,East,527.92,2,85.787,95.03,475.13,16.25
+CA-2014-155796,Tom Stivers,Furniture,East,521.96,4,-250.5408,93.95,469.76,-48.0
+CA-2016-127138,Dean Katz,Furniture,West,770.352,3,77.0352,138.66,693.32,10.0
+CA-2014-140732,Matt Abelman,Technology,West,575.928,9,57.5928,103.67,518.34,10.0
+CA-2017-116953,Susan Vittorini,Technology,West,552.0,10,34.5,99.36,496.8,6.25
+CA-2016-163776,Joy Smith,Furniture,South,504.9,5,126.225,90.88,454.41,25.0
+US-2017-163300,Erica Smith,Office Supplies,West,2357.488,7,884.058,424.35,2121.74,37.5
+CA-2015-135580,Clay Ludtke,Technology,West,2548.56,6,286.713,458.74,2293.7,11.25
+CA-2016-159016,Karen Ferguson,Technology,West,4158.912,8,363.9048,748.6,3743.02,8.75
+CA-2017-139717,Darrin Martin,Office Supplies,East,646.272,8,64.6272,116.33,581.64,10.0
+CA-2017-122364,Frank Atkinson,Technology,West,859.2,3,75.18,154.66,773.28,8.75
+CA-2017-122364,Frank Atkinson,Technology,West,506.28,3,177.198,91.13,455.65,35.0
+CA-2016-154662,Benjamin Farhat,Furniture,Central,692.94,3,173.235,124.73,623.65,25.0
+CA-2015-105571,Christine Phan,Office Supplies,South,1345.485,5,-1031.5385,242.19,1210.94,-76.67
+CA-2015-111780,Ralph Arnett,Technology,West,1199.96,5,224.9925,215.99,1079.96,18.75
+CA-2017-166695,Chuck Clark,Furniture,West,518.272,8,-97.176,93.29,466.44,-18.75
+CA-2017-100111,Seth Vernon,Furniture,East,2888.127,11,609.7157,519.86,2599.31,21.11
+CA-2017-100111,Seth Vernon,Technology,East,1299.66,2,350.9082,233.94,1169.69,27.0
+CA-2017-100111,Seth Vernon,Furniture,East,2254.41,5,375.735,405.79,2028.97,16.67
+CA-2016-124590,Susan Pistek,Furniture,East,1474.802,7,-21.0686,265.46,1327.32,-1.43
+CA-2016-124590,Susan Pistek,Furniture,East,1537.074,9,0.0,276.67,1383.37,0.0
+US-2016-113677,Corinna Mitchell,Technology,East,2279.96,4,592.7896,410.39,2051.96,26.0
+CA-2014-163447,Thomas Brumley,Furniture,East,767.214,14,161.9674,138.1,690.49,21.11
+CA-2014-111871,Eileen Kiefer,Furniture,West,1198.33,10,70.49,215.7,1078.5,5.88
+CA-2016-161025,Gary McGarr,Office Supplies,West,772.68,4,108.1752,139.08,695.41,14.0
+US-2014-106299,Nick Zandusky,Office Supplies,Central,838.38,2,226.3626,150.91,754.54,27.0
+CA-2015-158421,Giulietta Baptist,Furniture,South,1690.04,4,422.51,304.21,1521.04,25.0
+CA-2015-158421,Giulietta Baptist,Technology,South,629.95,5,176.386,113.39,566.96,28.0
+CA-2015-158421,Giulietta Baptist,Office Supplies,South,887.84,8,17.7568,159.81,799.06,2.0
+CA-2016-157259,Jessica Myrick,Furniture,East,799.56,9,207.8856,143.92,719.6,26.0
+CA-2015-146675,Sarah Brown,Technology,Central,1439.968,4,485.9892,259.19,1295.97,33.75
+CA-2016-118332,Pete Kriz,Furniture,West,563.92,5,7.049,101.51,507.53,1.25
+CA-2017-119809,Yana Sorensen,Office Supplies,West,2793.528,9,942.8157,502.84,2514.18,33.75
+CA-2017-119809,Yana Sorensen,Office Supplies,West,1000.02,7,290.0058,180.0,900.02,29.0
+US-2017-142188,Jennifer Ferguson,Office Supplies,West,1471.96,5,459.9875,264.95,1324.76,31.25
+CA-2017-102379,Brenda Bowman,Furniture,West,1159.056,9,43.4646,208.63,1043.15,3.75
+CA-2016-100944,Edward Hooks,Furniture,West,563.24,5,56.324,101.38,506.92,10.0
+CA-2016-125080,Victoria Wilson,Furniture,East,661.176,2,-231.4116,119.01,595.06,-35.0
+CA-2014-100090,Ed Braxton,Furniture,West,502.488,3,-87.9354,90.45,452.24,-17.5
+US-2015-139675,Nicole Fjeld,Furniture,West,915.136,4,102.9528,164.72,823.62,11.25
+CA-2017-143756,Max Engle,Furniture,South,701.96,2,168.4704,126.35,631.76,24.0
+CA-2014-141313,Anthony Jacobs,Office Supplies,East,1737.18,6,503.7822,312.69,1563.46,29.0
+CA-2014-141313,Anthony Jacobs,Office Supplies,East,704.25,5,84.51,126.77,633.83,12.0
+CA-2016-163328,Tracy Poddar,Furniture,West,650.352,3,-97.5528,117.06,585.32,-15.0
+CA-2016-163328,Tracy Poddar,Office Supplies,West,629.184,8,228.0792,113.25,566.27,36.25
+CA-2017-120019,Nat Gilpin,Office Supplies,East,579.51,3,81.1314,104.31,521.56,14.0
+CA-2017-143112,Todd Sumrall,Technology,East,5199.96,4,1351.9896,935.99,4679.96,26.0
+CA-2015-146255,Eugene Moren,Technology,East,587.97,3,170.5113,105.83,529.17,29.0
+CA-2017-110443,Chloris Kastensmidt,Technology,West,1039.992,1,103.9992,187.2,935.99,10.0
+CA-2014-107811,Laura Armstrong,Furniture,South,561.584,2,70.198,101.09,505.43,12.5
+CA-2017-151981,Gary Mitchum,Technology,East,824.95,5,247.485,148.49,742.46,30.0
+CA-2017-154074,Bart Watters,Furniture,West,569.568,2,7.1196,102.52,512.61,1.25
+CA-2017-161774,Greg Tran,Furniture,Central,899.43,5,-12.849,161.9,809.49,-1.43
+CA-2016-143714,Christopher Conant,Technology,East,8399.976,4,1119.9968,1512.0,7559.98,13.33
+CA-2014-165764,Shahid Hopkins,Furniture,South,945.036,6,-299.2614,170.11,850.53,-31.67
+US-2017-113992,Lena Creighton,Furniture,Central,974.988,4,-97.4988,175.5,877.49,-10.0
+CA-2014-166891,Chris Cortes,Furniture,East,589.41,5,-6.549,106.09,530.47,-1.11
+CA-2016-163804,Deborah Brumfield,Office Supplies,East,2079.4,5,582.232,374.29,1871.46,28.0
+CA-2016-163804,Deborah Brumfield,Technology,East,629.95,5,176.386,113.39,566.96,28.0
+CA-2016-113292,Dave Brooks,Office Supplies,South,871.8,3,87.18,156.92,784.62,10.0
+CA-2017-140872,Nick Radford,Technology,South,503.96,5,50.396,90.71,453.56,10.0
+CA-2015-120621,Julia West,Office Supplies,South,962.08,4,156.338,173.17,865.87,16.25
+CA-2014-129147,Liz Carlisle,Technology,East,539.964,6,-107.9928,97.19,485.97,-20.0
+CA-2017-128265,Victoria Wilson,Office Supplies,East,1247.64,3,349.3392,224.58,1122.88,28.0
+CA-2017-138289,Andy Reiter,Office Supplies,Central,5443.96,4,2504.2216,979.91,4899.56,46.0
+CA-2016-157791,Carol Adams,Technology,East,1999.96,4,899.982,359.99,1799.96,45.0
+CA-2014-128209,Greg Tran,Office Supplies,East,2152.776,3,726.5619,387.5,1937.5,33.75
+CA-2014-128209,Greg Tran,Furniture,East,4007.84,10,-50.098,721.41,3607.06,-1.25
+CA-2014-113880,Vicky Freymann,Furniture,Central,634.116,6,-172.1172,114.14,570.7,-27.14
+CA-2014-137092,Lindsay Shagiari,Office Supplies,Central,505.32,3,31.5825,90.96,454.79,6.25
+CA-2015-166947,Edward Becker,Furniture,East,1522.638,9,169.182,274.07,1370.37,11.11
+CA-2014-166086,Carol Triggs,Furniture,East,872.32,4,244.2496,157.02,785.09,28.0
+CA-2016-160535,Barry Pond,Office Supplies,East,563.4,4,67.608,101.41,507.06,12.0
+CA-2017-123085,Ed Jacobs,Technology,West,1049.44,8,440.7648,188.9,944.5,42.0
+CA-2014-103660,Mitch Webber,Technology,West,1007.944,7,75.5958,181.43,907.15,7.5
+US-2017-167402,Cathy Prescott,Office Supplies,Central,4164.05,5,83.281,749.53,3747.65,2.0
+CA-2014-145541,Tom Boeckenhauer,Technology,East,6999.96,4,2239.9872,1259.99,6299.96,32.0
+CA-2016-105081,Joe Elijah,Furniture,West,698.352,3,52.3764,125.7,628.52,7.5
+CA-2016-105081,Joe Elijah,Furniture,West,1747.25,5,629.01,314.51,1572.53,36.0
+CA-2017-144498,Mick Brown,Technology,South,627.168,4,70.5564,112.89,564.45,11.25
+CA-2014-108609,Anthony Jacobs,Furniture,East,1421.664,8,-734.5264,255.9,1279.5,-51.67
+US-2016-127334,Mike Pelletier,Furniture,West,564.195,3,-304.6653,101.56,507.78,-54.0
+CA-2015-165162,Hunter Glantz,Office Supplies,West,1117.92,4,55.896,201.23,1006.13,5.0
+CA-2016-112277,Steve Chapman,Technology,South,519.68,7,58.464,93.54,467.71,11.25
+CA-2015-123141,Gary Zandusky,Furniture,West,883.84,4,99.432,159.09,795.46,11.25
+CA-2015-156734,Benjamin Venier,Furniture,South,643.136,4,56.2744,115.76,578.82,8.75
+CA-2016-123358,Brian Thompson,Office Supplies,West,579.51,3,81.1314,104.31,521.56,14.0
+CA-2017-159156,Ken Brennan,Technology,East,629.95,5,163.787,113.39,566.96,26.0
+CA-2017-124205,Theresa Coyne,Furniture,East,512.96,4,143.6288,92.33,461.66,28.0
+CA-2016-144764,Rob Lucas,Technology,Central,1362.9,3,-19.47,245.32,1226.61,-1.43
+CA-2014-144414,Gary Hwang,Office Supplies,West,3266.376,3,1061.5722,587.95,2939.74,32.5
+CA-2016-118689,Tamara Chand,Technology,Central,17499.95,5,8399.976,3149.99,15749.96,48.0
+CA-2016-118689,Tamara Chand,Office Supplies,Central,735.98,2,331.191,132.48,662.38,45.0
+CA-2017-107517,Fred Chung,Office Supplies,West,1640.7,5,459.396,295.33,1476.63,28.0
+CA-2016-123946,Anthony Johnson,Furniture,South,1059.12,4,307.1448,190.64,953.21,29.0
+US-2016-100461,Jack O'Briant,Furniture,Central,1565.88,6,407.1288,281.86,1409.29,26.0
+US-2016-126452,Scot Coram,Furniture,West,2887.056,9,180.441,519.67,2598.35,6.25
+US-2016-121013,Michael Moore,Furniture,South,1652.94,3,314.0586,297.53,1487.65,19.0
+CA-2015-137113,Tamara Willingham,Furniture,West,2003.92,5,125.245,360.71,1803.53,6.25
+CA-2015-137113,Tamara Willingham,Furniture,West,1913.4,9,401.814,344.41,1722.06,21.0
+CA-2015-120677,Bill Donatelli,Furniture,Central,2567.84,8,770.352,462.21,2311.06,30.0
+US-2015-165512,Vivek Sundaresam,Furniture,Central,602.651,7,-163.5767,108.48,542.39,-27.14
+CA-2015-140557,Tanja Norvell,Technology,East,559.93,7,167.979,100.79,503.94,30.0
+US-2017-135013,Harold Ryan,Technology,West,2399.96,5,839.986,431.99,2159.96,35.0
+CA-2016-140249,Shaun Weien,Technology,West,1001.584,2,125.198,180.29,901.43,12.5
+CA-2014-124247,Stefanie Holloman,Furniture,West,1403.92,5,70.196,252.71,1263.53,5.0
+CA-2015-137925,Janet Lee,Furniture,East,681.408,12,42.588,122.65,613.27,6.25
+CA-2016-140382,Ruben Dartt,Technology,West,862.344,7,97.0137,155.22,776.11,11.25
+CA-2017-107132,Scott Cohen,Office Supplies,East,713.88,4,214.164,128.5,642.49,30.0
+CA-2015-139248,Russell D'Ascenzo,Technology,West,623.96,5,38.9975,112.31,561.56,6.25
+CA-2016-106243,Greg Matthias,Furniture,East,523.92,5,-26.196,94.31,471.53,-5.0
+CA-2015-129917,Henry MacAllister,Technology,West,503.96,5,50.396,90.71,453.56,10.0
+CA-2015-110765,Michael Paige,Technology,East,824.97,3,214.4922,148.49,742.47,26.0
+CA-2015-112144,Craig Yedwab,Furniture,West,621.76,4,46.632,111.92,559.58,7.5
+CA-2017-158561,Brenda Bowman,Office Supplies,South,1158.12,5,130.2885,208.46,1042.31,11.25
+CA-2015-154823,Katherine Nockton,Furniture,East,598.458,3,-42.747,107.72,538.61,-7.14
+CA-2014-114790,Filia McAdams,Technology,South,587.97,3,164.6316,105.83,529.17,28.0
+CA-2017-119494,Jim Epp,Furniture,West,523.392,3,52.3392,94.21,471.05,10.0
+US-2017-165358,Seth Vernon,Technology,East,599.97,5,69.9965,107.99,539.97,11.67
+CA-2016-165330,William Brown,Furniture,West,892.136,7,111.517,160.58,802.92,12.5
+CA-2014-106726,Roland Schwarz,Office Supplies,West,1261.33,7,327.9458,227.04,1135.2,26.0
+CA-2016-106950,Joe Elijah,Technology,South,1012.68,3,303.804,182.28,911.41,30.0
+CA-2017-118724,Anthony Rawles,Technology,West,1626.192,9,121.9644,292.71,1463.57,7.5
+CA-2017-128944,Katharine Harms,Furniture,East,760.116,6,-43.4352,136.82,684.1,-5.71
+US-2016-102239,Lindsay Williams,Furniture,West,1685.88,6,320.3172,303.46,1517.29,19.0
+CA-2017-141439,Tonja Turnell,Technology,Central,1879.96,4,545.1884,338.39,1691.96,29.0
+CA-2017-141439,Tonja Turnell,Furniture,Central,828.6,3,240.294,149.15,745.74,29.0
+US-2017-141558,Marc Harrigan,Technology,East,776.85,5,-181.265,139.83,699.17,-23.33
+CA-2015-166583,Valerie Dominguez,Technology,Central,971.88,3,109.3365,174.94,874.69,11.25
+CA-2014-117464,Naresj Patel,Furniture,West,717.72,3,71.772,129.19,645.95,10.0
+US-2017-141677,Heather Kirkland,Technology,Central,2399.96,5,569.9905,431.99,2159.96,23.75
+CA-2017-128853,Janet Martin,Furniture,East,908.82,9,227.205,163.59,817.94,25.0
+CA-2016-164399,Dianna Wilson,Furniture,West,674.352,3,-8.4294,121.38,606.92,-1.25
+CA-2016-110492,John Stevenson,Office Supplies,South,1350.12,6,175.5156,243.02,1215.11,13.0
+CA-2016-120369,Victoria Brennan,Furniture,East,756.8,5,75.68,136.22,681.12,10.0
+CA-2017-127397,Erin Smith,Technology,East,1319.8,5,214.4675,237.56,1187.82,16.25
+CA-2017-118892,Tom Prescott,Furniture,East,4416.174,9,-630.882,794.91,3974.56,-14.29
+CA-2015-158491,Becky Pak,Technology,West,989.97,3,395.988,178.19,890.97,40.0
+CA-2016-152730,Eugene Moren,Office Supplies,Central,629.1,6,301.968,113.24,566.19,48.0
+CA-2014-120670,Julie Kriz,Technology,South,799.92,10,239.976,143.99,719.93,30.0
+CA-2015-162782,Pierre Wener,Office Supplies,East,2541.98,2,1270.99,457.56,2287.78,50.0
+CA-2017-159282,Gary Hansen,Technology,West,599.985,5,-479.988,108.0,539.99,-80.0
+CA-2014-158281,Andy Gerbode,Technology,Central,559.71,3,-121.2705,100.75,503.74,-21.67
+CA-2017-109183,Lena Radford,Technology,South,649.0,2,-272.58,116.82,584.1,-42.0
+CA-2014-137274,Mike Gockenbach,Furniture,Central,890.841,3,-152.7156,160.35,801.76,-17.14
+CA-2017-100097,Michael Nguyen,Technology,East,979.95,5,264.5865,176.39,881.96,27.0
+US-2014-131275,Sample Company A,Technology,West,1279.968,4,415.9896,230.39,1151.97,32.5
+US-2014-131275,Sample Company A,Office Supplies,West,1856.19,7,334.1142,334.11,1670.57,18.0
+CA-2015-113152,Jim Karlsson,Technology,East,843.9,2,371.316,151.9,759.51,44.0
+CA-2017-168389,Darrin Van Huff,Furniture,South,721.875,6,-420.0,129.94,649.69,-58.18
+US-2014-115189,Alex Russell,Furniture,East,523.764,3,-192.0468,94.28,471.39,-36.67
+CA-2016-105732,Alejandro Grove,Furniture,Central,1336.44,14,387.5676,240.56,1202.8,29.0
+CA-2016-110975,Darren Budd,Furniture,East,866.646,3,173.3292,156.0,779.98,20.0
+CA-2014-141649,Dario Medina,Office Supplies,East,795.408,6,59.6556,143.17,715.87,7.5
+CA-2015-100146,Claudia Bergmann,Furniture,West,509.9575,5,41.9965,91.79,458.96,8.24
+CA-2015-100146,Claudia Bergmann,Furniture,West,722.352,3,81.2646,130.02,650.12,11.25
+US-2016-114013,Stewart Carmichael,Technology,East,539.91,3,-116.9805,97.18,485.92,-21.67
+US-2016-114013,Stewart Carmichael,Office Supplies,East,552.56,5,-138.14,99.46,497.3,-25.0
+CA-2017-105669,Sanjit Jacobs,Technology,Central,1415.76,6,88.485,254.84,1274.18,6.25
+CA-2016-137743,Katherine Hughes,Office Supplies,Central,1036.624,2,51.8312,186.59,932.96,5.0
+CA-2015-137974,Lauren Leatherbury,Technology,South,569.64,2,148.1064,102.54,512.68,26.0
+CA-2015-137974,Lauren Leatherbury,Furniture,South,1196.86,7,119.686,215.43,1077.17,10.0
+CA-2015-137974,Lauren Leatherbury,Furniture,South,523.26,9,125.5824,94.19,470.93,24.0
+US-2015-136987,Andy Reiter,Technology,West,639.968,4,215.9892,115.19,575.97,33.75
+CA-2015-138485,Nora Paige,Technology,West,538.92,9,80.838,97.01,485.03,15.0
+CA-2016-139997,Eugene Moren,Technology,West,1499.95,5,449.985,269.99,1349.96,30.0
+CA-2014-167199,Maria Etezadi,Furniture,South,2573.82,9,746.4078,463.29,2316.44,29.0
+CA-2014-167199,Maria Etezadi,Office Supplies,South,609.98,2,274.491,109.8,548.98,45.0
+CA-2014-167199,Maria Etezadi,Technology,South,755.96,4,204.1092,136.07,680.36,27.0
+US-2015-134558,Peter McVee,Technology,East,2249.91,9,517.4793,404.98,2024.92,23.0
+US-2015-134558,Peter McVee,Furniture,East,1053.164,4,-105.3164,189.57,947.85,-10.0
+US-2017-160836,Cindy Chapman,Furniture,Central,512.19,5,-65.853,92.19,460.97,-12.86
+US-2017-161935,John Lee,Technology,East,1889.946,9,-377.9892,340.19,1700.95,-20.0
+US-2017-167920,John Lee,Technology,South,1399.98,2,629.991,252.0,1259.98,45.0
+CA-2014-125731,Clay Ludtke,Furniture,West,1487.04,5,148.704,267.67,1338.34,10.0
+US-2017-106145,Ruben Ausman,Office Supplies,West,931.176,3,314.2719,167.61,838.06,33.75
+US-2017-112347,Bill Stewart,Furniture,West,906.68,5,68.001,163.2,816.01,7.5
+CA-2014-103492,Craig Molinari,Technology,Central,719.952,6,71.9952,129.59,647.96,10.0
+CA-2014-103492,Craig Molinari,Technology,Central,755.944,7,66.1451,136.07,680.35,8.75
+CA-2014-140396,Katharine Harms,Technology,East,833.94,6,216.8244,150.11,750.55,26.0
+US-2014-137155,Daniel Lacy,Office Supplies,East,533.94,3,154.8426,96.11,480.55,29.0
+CA-2014-100916,Frank Hawley,Furniture,South,591.32,4,112.3508,106.44,532.19,19.0
+CA-2016-138597,Parhena Norris,Furniture,Central,563.94,3,112.788,101.51,507.55,20.0
+CA-2015-123113,Annie Thurman,Office Supplies,East,2625.12,8,735.0336,472.52,2362.61,28.0
+CA-2014-163223,Kristen Hastings,Technology,South,3499.93,7,909.9818,629.99,3149.94,26.0
+CA-2016-158778,Dean Braden,Furniture,East,887.271,3,-63.3765,159.71,798.54,-7.14
+CA-2016-101791,Brian Stugart,Office Supplies,Central,1297.368,9,97.3026,233.53,1167.63,7.5
+CA-2016-144309,Chris McAfee,Office Supplies,East,679.96,5,220.987,122.39,611.96,32.5
+US-2014-144078,Richard Bierner,Technology,West,539.92,5,47.243,97.19,485.93,8.75
+US-2014-144078,Richard Bierner,Furniture,West,725.344,4,54.4008,130.56,652.81,7.5
+CA-2015-136805,Nathan Mautz,Office Supplies,Central,850.5,5,245.7,153.09,765.45,28.89
+US-2017-158526,Katherine Hughes,Furniture,South,1207.84,8,314.0384,217.41,1087.06,26.0
+US-2016-157490,Laurel Beltran,Technology,West,703.71,6,-938.28,126.67,633.34,-133.33
+CA-2015-161452,Carol Adams,Furniture,West,892.224,3,89.2224,160.6,803.0,10.0
+US-2014-115196,Daniel Lacy,Technology,South,1299.99,2,-571.9956,234.0,1169.99,-44.0
+CA-2016-138968,Fred Chung,Furniture,West,1352.032,4,84.502,243.37,1216.83,6.25
+CA-2015-101889,David Bremer,Furniture,East,1548.99,9,-464.697,278.82,1394.09,-30.0
+US-2016-140158,Daniel Raglin,Technology,East,5399.91,9,2591.9568,971.98,4859.92,48.0
+CA-2014-133592,Katherine Murray,Technology,East,1687.8,4,742.632,303.8,1519.02,44.0
+CA-2014-133592,Katherine Murray,Furniture,East,605.88,6,151.47,109.06,545.29,25.0
+CA-2015-120782,Shirley Daniels,Office Supplies,Central,3812.97,3,1906.485,686.33,3431.67,50.0
+CA-2015-116876,Ted Trevino,Technology,East,625.99,1,187.797,112.68,563.39,30.0
+CA-2016-169838,Brenda Bowman,Furniture,Central,1568.61,9,329.4081,282.35,1411.75,21.0
+US-2017-128951,Ricardo Sperren,Furniture,South,872.94,3,157.1292,157.13,785.65,18.0
+CA-2017-151799,Ben Ferrer,Technology,East,1199.98,2,467.9922,216.0,1079.98,39.0
+CA-2017-151799,Ben Ferrer,Furniture,East,526.582,2,-52.6582,94.78,473.92,-10.0
+CA-2016-133613,Christine Phan,Technology,East,566.97,3,153.0819,102.05,510.27,27.0
+US-2017-118941,Brenda Bowman,Furniture,East,1779.9,5,373.779,320.38,1601.91,21.0
+CA-2016-155978,Thomas Seio,Technology,West,1039.728,2,90.9762,187.15,935.76,8.75
+CA-2016-108196,Cindy Stewart,Technology,East,4499.985,5,-6599.978,810.0,4049.99,-146.67
+CA-2016-162236,Elpida Rittenbach,Furniture,South,876.3,10,-292.1,157.73,788.67,-33.33
+CA-2015-102260,Sanjit Jacobs,Office Supplies,South,720.064,4,-63.0056,129.61,648.06,-8.75
+CA-2016-134334,Dave Kipp,Furniture,East,550.431,3,-47.1798,99.08,495.39,-8.57
+US-2017-109316,Maureen Gastineau,Furniture,West,1497.666,2,140.9568,269.58,1347.9,9.41
+CA-2016-138478,Dennis Pardue,Office Supplies,West,4535.976,3,1644.2913,816.48,4082.38,36.25
+CA-2017-152436,Carl Weiss,Office Supplies,East,592.74,6,160.0398,106.69,533.47,27.0
+CA-2017-117114,Craig Yedwab,Technology,Central,508.768,4,38.1576,91.58,457.89,7.5
+US-2014-137869,Christina VanderZanden,Furniture,Central,1184.72,4,106.6248,213.25,1066.25,9.0
+CA-2015-125976,Jamie Kunitz,Technology,South,1871.88,12,561.564,336.94,1684.69,30.0
+CA-2016-101672,Daniel Byrd,Furniture,West,915.136,4,102.9528,164.72,823.62,11.25
+CA-2017-128363,Dan Campbell,Office Supplies,South,1614.582,6,-1237.8462,290.62,1453.12,-76.67
+CA-2016-112585,Rob Williams,Office Supplies,West,715.64,2,178.91,128.82,644.08,25.0
+CA-2017-165323,Steven Roelle,Technology,East,3404.5,5,1668.205,612.81,3064.05,49.0
+CA-2017-120404,Katharine Harms,Technology,East,569.99,1,170.997,102.6,512.99,30.0
+CA-2017-166093,Rick Wilson,Office Supplies,West,2518.29,9,654.7554,453.29,2266.46,26.0
+CA-2017-166093,Rick Wilson,Office Supplies,West,540.57,3,140.5482,97.3,486.51,26.0
+CA-2015-145814,Katherine Ducich,Technology,East,861.76,4,249.9104,155.12,775.58,29.0
+US-2015-126753,Sung Pak,Technology,East,519.792,4,-112.6216,93.56,467.81,-21.67
+CA-2014-166051,Jim Karlsson,Technology,South,659.97,3,197.991,118.79,593.97,30.0
+US-2017-105998,Clay Rozendal,Furniture,West,1673.184,12,20.9148,301.17,1505.87,1.25
+CA-2015-110863,Anna Andreadi,Furniture,Central,1323.9,5,383.931,238.3,1191.51,29.0
+CA-2017-120168,Trudy Brown,Office Supplies,East,663.92,5,207.475,119.51,597.53,31.25
+CA-2014-129189,Harry Marie,Furniture,Central,657.93,5,-93.99,118.43,592.14,-14.29
+CA-2015-132465,Don Miller,Office Supplies,East,772.68,4,108.1752,139.08,695.41,14.0
+CA-2017-121489,Candace McMahon,Office Supplies,West,572.58,6,34.3548,103.06,515.32,6.0
+CA-2016-168543,Dean Katz,Office Supplies,East,706.86,7,197.9208,127.23,636.17,28.0
+CA-2015-121188,Cassandra Brandow,Office Supplies,West,892.35,5,267.705,160.62,803.12,30.0
+CA-2015-121188,Cassandra Brandow,Office Supplies,West,728.82,9,29.1528,131.19,655.94,4.0
+CA-2015-150714,Kristen Hastings,Office Supplies,West,718.64,10,-161.694,129.36,646.78,-22.5
+CA-2016-169663,Rick Huthwaite,Technology,West,3357.6,3,377.73,604.37,3021.84,11.25
+CA-2015-149846,Sarah Brown,Technology,West,2973.32,7,334.4985,535.2,2675.99,11.25
+CA-2015-149846,Sarah Brown,Technology,West,775.728,6,58.1796,139.63,698.16,7.5
+US-2017-106551,Eric Barreto,Furniture,Central,526.344,4,-75.192,94.74,473.71,-14.29
+CA-2014-138128,Frank Preis,Technology,East,1079.976,4,125.9972,194.4,971.98,11.67
+CA-2015-137064,Trudy Schmidt,Office Supplies,Central,670.752,3,-125.766,120.74,603.68,-18.75
+CA-2014-127866,Jonathan Doherty,Office Supplies,West,535.41,3,160.623,96.37,481.87,30.0
+CA-2016-118073,Cindy Schnelling,Furniture,South,562.2925,7,-255.5875,101.21,506.06,-45.45
+CA-2016-100993,Annie Zypern,Furniture,West,557.728,4,6.9716,100.39,501.96,1.25
+CA-2017-140151,Raymond Buch,Technology,West,13999.96,4,6719.9808,2519.99,12599.96,48.0
+CA-2016-103464,Patrick Gardner,Technology,West,595.0,5,95.2,107.1,535.5,16.0
+CA-2015-168207,Liz Thompson,Furniture,West,512.499,3,-30.147,92.25,461.25,-5.88
+CA-2016-144148,Anna H�berlin,Furniture,West,863.128,7,-32.3673,155.36,776.82,-3.75
+CA-2017-107174,Adam Bellavance,Furniture,West,2036.86,7,366.6348,366.63,1833.17,18.0
+CA-2016-166429,Toby Gnade,Technology,West,999.98,2,449.991,180.0,899.98,45.0
+CA-2015-119879,Shahid Shariari,Furniture,East,1252.704,8,-480.2032,225.49,1127.43,-38.33
+CA-2015-114811,Keith Dawkins,Technology,East,549.98,2,142.9948,99.0,494.98,26.0
+CA-2015-114811,Keith Dawkins,Technology,East,4643.8,4,2229.024,835.88,4179.42,48.0
+CA-2015-114811,Keith Dawkins,Furniture,East,577.764,2,115.5528,104.0,519.99,20.0
+CA-2015-141565,Barry Gonzalez,Office Supplies,South,1369.764,6,-913.176,246.56,1232.79,-66.67
+CA-2016-162355,Philip Fox,Furniture,South,1266.86,7,291.3778,228.03,1140.17,23.0
+CA-2017-102204,Caroline Jumper,Furniture,South,933.262,4,-458.1468,167.99,839.94,-49.09
+CA-2017-102204,Caroline Jumper,Furniture,South,2803.92,5,0.0,504.71,2523.53,0.0
+CA-2014-109897,Ben Wallace,Technology,West,806.336,8,50.396,145.14,725.7,6.25
+CA-2016-133816,Christopher Schild,Technology,East,743.988,2,-123.998,133.92,669.59,-16.67
+CA-2017-121790,Liz Preis,Technology,Central,2003.168,4,250.396,360.57,1802.85,12.5
+CA-2016-169670,Joe Elijah,Furniture,East,2563.056,8,313.2624,461.35,2306.75,12.22
+CA-2017-164112,Neil Ducich,Office Supplies,East,1085.42,7,282.2092,195.38,976.88,26.0
+CA-2017-146192,Bruce Degenhardt,Office Supplies,South,675.06,3,87.7578,121.51,607.55,13.0
+CA-2015-154284,Sam Zeldin,Technology,Central,600.53,2,137.264,108.1,540.48,22.86
+CA-2015-154284,Sam Zeldin,Technology,Central,637.44,8,135.456,114.74,573.7,21.25
+US-2017-167318,George Zrebassa,Technology,West,1649.95,5,659.98,296.99,1484.96,40.0
+US-2017-105935,Bradley Drucker,Technology,South,2939.93,7,764.3818,529.19,2645.94,26.0
+CA-2014-161508,Paul Van Hugh,Furniture,Central,512.358,3,-14.6388,92.22,461.12,-2.86
+CA-2017-147207,Trudy Schmidt,Furniture,Central,913.43,5,-169.637,164.42,822.09,-18.57
+CA-2017-137631,Janet Lee,Technology,South,751.984,2,84.5982,135.36,676.79,11.25
+CA-2017-157273,Sam Zeldin,Technology,West,604.768,4,60.4768,108.86,544.29,10.0
+CA-2016-118745,Seth Vernon,Furniture,West,902.712,3,33.8517,162.49,812.44,3.75
+CA-2016-142594,Eva Jacobs,Office Supplies,East,901.95,3,297.6435,162.35,811.76,33.0
+CA-2016-130820,Odella Nelson,Furniture,South,630.024,4,-199.5076,113.4,567.02,-31.67
+CA-2017-132290,Maribeth Dona,Furniture,Central,933.408,4,-173.3472,168.01,840.07,-18.57
+CA-2017-150091,Nora Paige,Furniture,East,2154.9,5,129.294,387.88,1939.41,6.0
+CA-2017-125451,Adam Hart,Furniture,East,637.896,3,-127.5792,114.82,574.11,-20.0
+CA-2014-131387,Arianne Irving,Technology,West,1679.96,5,125.997,302.39,1511.96,7.5
+CA-2016-125087,Thea Hudgings,Office Supplies,Central,1554.936,3,77.7468,279.89,1399.44,5.0
+US-2016-164196,Alejandro Savely,Furniture,Central,2678.94,6,241.1046,482.21,2411.05,9.0
+CA-2015-145758,Barry Franz�sisch,Technology,East,1035.8,4,269.308,186.44,932.22,26.0
+CA-2016-158841,Sanjit Engle,Technology,South,8749.95,5,2799.984,1574.99,7874.96,32.0
+CA-2014-140473,Mark Cousins,Technology,Central,719.976,3,134.9955,129.6,647.98,18.75
+CA-2016-102092,Paul MacIntyre,Furniture,South,1056.86,7,158.529,190.23,951.17,15.0
+CA-2016-123540,Denny Joy,Furniture,Central,1454.9,5,378.274,261.88,1309.41,26.0
+CA-2016-162390,Dave Poirier,Office Supplies,East,968.744,7,314.8418,174.37,871.87,32.5
+CA-2014-121629,Brian Thompson,Technology,Central,998.85,5,-199.77,179.79,898.97,-20.0
+CA-2017-146164,Charlotte Melton,Furniture,Central,607.52,2,97.2032,109.35,546.77,16.0
+CA-2017-162015,Karen Bern,Technology,West,1287.45,5,244.6155,231.74,1158.71,19.0
+CA-2016-107783,Olvera Toch,Office Supplies,East,1369.764,6,-913.176,246.56,1232.79,-66.67
+CA-2014-160094,Justin MacKendrick,Office Supplies,South,826.0,5,214.76,148.68,743.4,26.0
+US-2017-148551,David Bremer,Office Supplies,Central,760.98,5,-1141.47,136.98,684.88,-150.0
+CA-2016-164574,Ritsa Hightower,Office Supplies,South,704.76,5,26.4285,126.86,634.28,3.75
+CA-2017-124765,Henia Zydlo,Furniture,South,723.92,5,-81.441,130.31,651.53,-11.25
+CA-2015-131856,James Galang,Technology,Central,619.152,6,69.6546,111.45,557.24,11.25
+CA-2017-163265,Joy Smith,Furniture,Central,600.558,3,-8.5794,108.1,540.5,-1.43
+CA-2017-141705,Patrick O'Brill,Furniture,Central,517.405,5,-81.3065,93.13,465.66,-15.71
+CA-2016-143805,Jonathan Doherty,Office Supplies,South,2104.55,7,694.5015,378.82,1894.1,33.0
+CA-2017-119284,Thomas Seio,Technology,South,2239.936,8,223.9936,403.19,2015.94,10.0
+CA-2014-105648,Eva Jacobs,Furniture,West,626.352,3,-23.4882,112.74,563.72,-3.75
+CA-2017-116988,Pauline Webber,Technology,West,1287.45,5,244.6155,231.74,1158.71,19.0
+CA-2016-168774,Roy Phan,Office Supplies,Central,535.41,3,160.623,96.37,481.87,30.0
+US-2015-163825,Lena Creighton,Office Supplies,East,3050.376,3,1143.891,549.07,2745.34,37.5
+CA-2016-159891,Ben Ferrer,Office Supplies,South,1270.99,1,635.495,228.78,1143.89,50.0
+CA-2017-115882,Dorothy Badders,Office Supplies,South,942.784,4,94.2784,169.7,848.51,10.0
+CA-2016-102813,Erin Ashbrook,Furniture,Central,528.43,5,0.0,95.12,475.59,0.0
+CA-2015-133585,Craig Molinari,Furniture,Central,1227.9984,6,-36.1176,221.04,1105.2,-2.94
+CA-2016-116911,Justin Deggeller,Furniture,West,1128.39,3,259.5297,203.11,1015.55,23.0
+CA-2017-126914,Joe Elijah,Furniture,South,698.352,3,52.3764,125.7,628.52,7.5
+CA-2017-162075,Thomas Thornton,Technology,Central,537.544,7,47.0351,96.76,483.79,8.75
+CA-2014-162992,Bart Pistole,Technology,West,583.8,5,72.975,105.08,525.42,12.5
+US-2016-150140,Valerie Mitchum,Technology,East,1294.75,5,336.635,233.05,1165.28,26.0
+CA-2014-116666,Kean Thornton,Technology,East,1799.97,5,239.996,323.99,1619.97,13.33
+CA-2017-100622,Dave Kipp,Technology,South,959.984,2,311.9948,172.8,863.99,32.5
+CA-2015-153423,Shaun Weien,Office Supplies,East,1217.568,2,456.588,219.16,1095.81,37.5
+US-2015-115343,Frank Olsen,Technology,East,617.976,3,-7.7247,111.24,556.18,-1.25
+CA-2017-135909,Jane Waco,Office Supplies,West,5083.96,5,1906.485,915.11,4575.56,37.5
+CA-2016-158260,Cindy Chapman,Technology,West,686.4,2,77.22,123.55,617.76,11.25
+CA-2017-103968,Max Ludwig,Furniture,West,629.64,9,107.0388,113.34,566.68,17.0
+CA-2016-147256,Frank Carlisle,Office Supplies,Central,1927.59,7,751.7601,346.97,1734.83,39.0
+CA-2015-111038,Lindsay Castell,Furniture,West,2676.672,9,267.6672,481.8,2409.0,10.0
+US-2016-144057,Cynthia Voltz,Office Supplies,Central,856.656,6,107.082,154.2,770.99,12.5
+CA-2016-168032,David Flashing,Technology,Central,1439.968,4,143.9968,259.19,1295.97,10.0
+CA-2016-168032,David Flashing,Furniture,Central,626.1,3,-538.446,112.7,563.49,-86.0
+US-2015-168704,Frank Preis,Furniture,Central,609.98,4,-113.282,109.8,548.98,-18.57
+CA-2017-130036,Ben Peterman,Technology,East,1119.888,14,209.979,201.58,1007.9,18.75
+CA-2017-150910,Jack Lebron,Furniture,South,934.956,6,-249.3216,168.29,841.46,-26.67
+CA-2017-150266,Rose O'Brian,Furniture,Central,853.93,5,-24.398,153.71,768.54,-2.86
+CA-2016-157280,Liz Willingham,Furniture,South,756.8,5,75.68,136.22,681.12,10.0
+US-2015-128587,Harry Marie,Technology,Central,4899.93,7,2302.9671,881.99,4409.94,47.0
+CA-2017-159100,Victoria Pisteka,Furniture,South,1875.258,7,-968.8833,337.55,1687.73,-51.67
+CA-2014-152268,Sanjit Chand,Office Supplies,South,1793.98,2,843.1706,322.92,1614.58,47.0
+CA-2016-117121,Adrian Barton,Office Supplies,Central,9892.74,13,4946.37,1780.69,8903.47,50.0
+CA-2015-160227,Emily Ducich,Furniture,East,2621.322,11,553.3902,471.84,2359.19,21.11
+CA-2016-132304,Anthony Rawles,Furniture,West,1115.17,7,334.551,200.73,1003.65,30.0
+CA-2014-136336,Dorothy Badders,Office Supplies,South,828.84,6,0.0,149.19,745.96,0.0
+CA-2017-152933,Matthew Grinstein,Technology,Central,791.88,3,128.6805,142.54,712.69,16.25
+CA-2016-135461,Erica Bern,Technology,West,623.96,5,38.9975,112.31,561.56,6.25
+CA-2017-153045,Neola Schneider,Furniture,East,887.271,3,-63.3765,159.71,798.54,-7.14
+CA-2015-157805,Rick Huthwaite,Technology,West,555.96,5,41.697,100.07,500.36,7.5
+US-2017-166688,Rick Duston,Technology,West,1123.128,9,70.1955,202.16,1010.82,6.25
+US-2016-165505,Claudia Bergmann,Office Supplies,East,1564.29,13,406.7154,281.57,1407.86,26.0
+CA-2016-160108,Arthur Gainer,Furniture,Central,680.01,3,176.8026,122.4,612.01,26.0
+CA-2016-100300,Max Jones,Technology,West,4476.8,4,503.64,805.82,4029.12,11.25
+US-2016-155768,Laurel Beltran,Office Supplies,West,1112.94,3,222.588,200.33,1001.65,20.0
+CA-2017-156776,Jeremy Lonsdale,Technology,West,707.88,3,44.2425,127.42,637.09,6.25
+CA-2017-156776,Jeremy Lonsdale,Office Supplies,West,1473.1,5,412.468,265.16,1325.79,28.0
+US-2015-130512,Sean Miller,Office Supplies,East,663.072,6,-165.768,119.35,596.76,-25.0
+CA-2014-103310,Greg Matthias,Technology,West,1432.0,5,125.3,257.76,1288.8,8.75
+CA-2017-103212,Michelle Huthwaite,Furniture,South,1504.52,4,346.0396,270.81,1354.07,23.0
+CA-2014-148383,Resi P�lking,Office Supplies,West,946.764,6,-694.2936,170.42,852.09,-73.33
+CA-2016-126732,Lena Radford,Technology,West,1091.168,4,68.198,196.41,982.05,6.25
+CA-2016-126732,Lena Radford,Furniture,West,568.728,3,28.4364,102.37,511.86,5.0
+CA-2016-127761,Scott Williamson,Technology,East,881.93,7,220.4825,158.75,793.74,25.0
+US-2017-102183,Pete Kriz,Office Supplies,East,4305.552,6,1453.1238,775.0,3875.0,33.75
+CA-2016-100510,Harry Marie,Technology,East,631.96,4,303.3408,113.75,568.76,48.0
+CA-2017-146983,Alan Hwang,Office Supplies,South,1577.94,3,757.4112,284.03,1420.15,48.0
+US-2017-165456,Trudy Brown,Furniture,East,1079.316,6,-15.4188,194.28,971.38,-1.43
+CA-2016-161907,Justin Hirsh,Office Supplies,East,769.184,4,-163.4516,138.45,692.27,-21.25
+CA-2017-121853,Duane Benoit,Furniture,West,594.816,2,59.4816,107.07,535.33,10.0
+CA-2016-108056,Erin Smith,Technology,West,859.2,3,75.18,154.66,773.28,8.75
+CA-2017-109085,Christine Kargatis,Furniture,East,899.43,5,-12.849,161.9,809.49,-1.43
+CA-2016-114860,Duane Noonan,Furniture,West,842.72,8,202.2528,151.69,758.45,24.0
+CA-2017-148411,Rose O'Brian,Furniture,Central,520.464,2,-14.8704,93.68,468.42,-2.86
+CA-2014-108147,Rick Duston,Office Supplies,East,1676.88,6,83.844,301.84,1509.19,5.0
+US-2017-127292,Raymond Messe,Office Supplies,East,542.94,3,152.0232,97.73,488.65,28.0
+CA-2015-130848,Deirdre Greer,Furniture,West,582.336,8,-29.1168,104.82,524.1,-5.0
+CA-2014-125997,Mitch Webber,Technology,East,629.95,5,157.4875,113.39,566.96,25.0
+CA-2014-125997,Mitch Webber,Furniture,East,631.782,2,140.396,113.72,568.6,22.22
+CA-2014-125997,Mitch Webber,Furniture,East,801.568,2,-10.0196,144.28,721.41,-1.25
+CA-2014-125997,Mitch Webber,Technology,East,1349.91,9,661.4559,242.98,1214.92,49.0
+CA-2016-105459,Nora Preis,Office Supplies,East,1591.02,6,286.3836,286.38,1431.92,18.0
+CA-2014-152618,Rick Bensley,Technology,Central,574.91,2,156.047,103.48,517.42,27.14
+CA-2017-162789,Logan Currie,Technology,East,1071.0,9,171.36,192.78,963.9,16.0
+CA-2015-164777,Sean Christensen,Furniture,West,2803.92,5,0.0,504.71,2523.53,0.0
+CA-2014-145254,Nick Crebassa,Technology,West,604.752,6,60.4752,108.86,544.28,10.0
+CA-2014-116246,Luke Weiss,Furniture,East,3785.292,6,420.588,681.35,3406.76,11.11
+CA-2014-152100,Victoria Wilson,Furniture,Central,1212.96,8,-69.312,218.33,1091.66,-5.71
+CA-2015-166219,Ben Peterman,Technology,Central,1099.96,5,82.497,197.99,989.96,7.5
+US-2017-109610,Brendan Sweed,Furniture,South,701.96,2,168.4704,126.35,631.76,24.0
+CA-2016-164770,Muhammed Yedwab,Furniture,Central,781.864,10,-137.976,140.74,703.68,-17.65
+CA-2017-130505,Natalie Fritzler,Furniture,East,673.344,3,-76.9536,121.2,606.01,-11.43
+CA-2015-156566,Eric Murdock,Technology,West,572.8,2,50.12,103.1,515.52,8.75
+CA-2017-111738,Christopher Martinez,Office Supplies,West,2022.272,8,682.5168,364.01,1820.04,33.75
+CA-2016-105207,Bill Overfelt,Furniture,Central,1592.85,7,350.427,286.71,1433.57,22.0
+CA-2016-113607,Pauline Webber,Technology,East,1091.93,7,272.9825,196.55,982.74,25.0
+CA-2014-149104,Ruben Dartt,Office Supplies,Central,689.82,6,20.6946,124.17,620.84,3.0
+CA-2016-125220,Bobby Elias,Technology,Central,1649.75,5,544.4175,296.96,1484.78,33.0
+CA-2015-147690,Sam Craven,Office Supplies,East,577.584,6,43.3188,103.97,519.83,7.5
+CA-2014-130428,Trudy Glocke,Furniture,South,1125.488,7,98.4802,202.59,1012.94,8.75
+CA-2017-152975,Roger Barcio,Technology,East,1079.85,3,323.955,194.37,971.86,30.0
+CA-2017-152975,Roger Barcio,Furniture,East,589.41,5,-6.549,106.09,530.47,-1.11
+CA-2014-128524,Mary Zewe,Office Supplies,West,2033.584,2,762.594,366.05,1830.23,37.5
+CA-2017-160633,Bill Stewart,Technology,East,899.982,3,74.9985,162.0,809.98,8.33
+CA-2014-151330,Toby Carlisle,Furniture,East,1628.82,9,260.6112,293.19,1465.94,16.0
+CA-2014-124702,Maya Herman,Furniture,West,730.2,4,94.926,131.44,657.18,13.0
+CA-2015-116638,Joseph Holt,Furniture,South,4297.644,13,-1862.3124,773.58,3867.88,-43.33
+CA-2016-107104,Maribeth Schnelling,Furniture,West,3406.664,8,160.3136,613.2,3066.0,4.71
+CA-2014-156160,Adam Shillingsburg,Furniture,East,579.528,4,83.7096,104.32,521.58,14.44
+CA-2016-160717,Maria Etezadi,Technology,West,3023.928,9,226.7946,544.31,2721.54,7.5
+CA-2016-114867,Frank Merwin,Technology,East,1499.97,5,-374.9925,269.99,1349.97,-25.0
+CA-2015-130113,Aaron Hawkins,Technology,West,668.16,9,75.168,120.27,601.34,11.25
+US-2017-135986,Paul Gonzalez,Technology,South,503.96,4,125.99,90.71,453.56,25.0
+CA-2015-130183,Patrick O'Brill,Furniture,Central,613.9992,3,-18.0588,110.52,552.6,-2.94
+CA-2017-147032,Laurel Beltran,Office Supplies,East,849.95,5,390.977,152.99,764.96,46.0
+CA-2014-114251,Maribeth Dona,Office Supplies,East,1080.096,6,-94.5084,194.42,972.09,-8.75
+CA-2017-167395,Kunst Miller,Technology,East,979.95,5,284.1855,176.39,881.96,29.0
+CA-2014-111962,Evan Bailliet,Office Supplies,West,807.75,5,153.4725,145.39,726.98,19.0
+CA-2014-114321,Nick Crebassa,Furniture,South,500.24,13,145.0696,90.04,450.22,29.0
+CA-2014-114321,Nick Crebassa,Office Supplies,South,896.99,1,421.5853,161.46,807.29,47.0
+CA-2015-117086,Quincy Jones,Furniture,East,4404.9,5,1013.127,792.88,3964.41,23.0
+US-2014-140914,Brosina Hoffman,Furniture,Central,797.944,4,-56.996,143.63,718.15,-7.14
+CA-2016-146913,Sylvia Foulston,Furniture,West,1403.92,5,70.196,252.71,1263.53,5.0
+CA-2014-169019,Luke Foster,Office Supplies,Central,2177.584,8,-3701.8928,391.97,1959.83,-170.0
+CA-2016-153178,Clay Ludtke,Office Supplies,East,673.568,2,252.588,121.24,606.21,37.5
+CA-2017-144491,Caroline Jumper,Furniture,Central,1023.332,5,-30.098,184.2,921.0,-2.94
+CA-2017-144491,Caroline Jumper,Furniture,Central,600.558,3,-8.5794,108.1,540.5,-1.43
+CA-2015-162201,Andrew Gjertsen,Office Supplies,South,516.96,4,-6.462,93.05,465.26,-1.25
+CA-2017-130302,Craig Yedwab,Technology,East,895.944,7,190.3881,161.27,806.35,21.25
+CA-2017-169327,Marc Harrigan,Furniture,West,511.5,5,132.99,92.07,460.35,26.0
+CA-2015-164301,Ellis Ballard,Furniture,West,3393.68,8,610.8624,610.86,3054.31,18.0
+US-2015-116981,Suzanne McNair,Office Supplies,East,1085.42,7,282.2092,195.38,976.88,26.0
+US-2017-166324,Brad Eason,Office Supplies,East,848.544,4,-21.2136,152.74,763.69,-2.5
+CA-2016-122581,Jay Kimmel,Furniture,East,573.174,7,63.686,103.17,515.86,11.11
+US-2015-129007,Ken Dana,Furniture,West,717.72,3,71.772,129.19,645.95,10.0
+CA-2016-149272,Muhammed Yedwab,Furniture,Central,528.43,5,-143.431,95.12,475.59,-27.14
+CA-2015-159534,Dave Hallsten,Office Supplies,East,1087.936,8,353.5792,195.83,979.14,32.5
+CA-2016-129630,Ionia McGrath,Technology,West,2799.96,5,944.9865,503.99,2519.96,33.75
+CA-2015-104948,Keith Herrera,Furniture,West,683.332,4,-40.196,123.0,615.0,-5.88
+CA-2014-143371,Maribeth Dona,Office Supplies,West,998.82,9,29.9646,179.79,898.94,3.0
+CA-2017-121559,Helen Wasserman,Furniture,Central,1925.88,6,539.2464,346.66,1733.29,28.0
+CA-2017-121559,Helen Wasserman,Office Supplies,Central,2405.2,8,793.716,432.94,2164.68,33.0
+CA-2017-153871,Richard Bierner,Office Supplies,East,735.98,2,331.191,132.48,662.38,45.0

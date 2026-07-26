@@ -5,7 +5,7 @@ from pyspark.sql.types import DoubleType, IntegerType
 # Initialize Spark Session
 spark = (
     SparkSession.builder
-    .appName("Spark Intro")
+    .appName("Week5_Data_Cleaning")
     .master("local[*]")
     .getOrCreate()
 )
@@ -23,7 +23,7 @@ df = (
     .option("multiLine", True)
     .option("escape", '"')
     .option("quote", '"')
-    .csv("./week5-spark-intro/dataset/Superstore.csv")
+    .csv("./week5-data-cleaning/dataset/Superstore.csv")
 )
 
 print("Rows :", df.count())
@@ -174,28 +174,28 @@ print("=" * 60)
     finalDf.coalesce(1)
     .write.mode("overwrite")
     .option("header", True)
-    .csv("./week5-spark-intro/output/cleaned_data")
+    .csv("./week5-data-cleaning/output/cleaned_data")
 )
 
 (
     summaryDf.coalesce(1)
     .write.mode("overwrite")
     .option("header", True)
-    .csv("./week5-spark-intro/output/category_region_summary")
+    .csv("./week5-data-cleaning/output/category_region_summary")
 )
 
 (
     catDf.coalesce(1)
     .write.mode("overwrite")
     .option("header", True)
-    .csv("./week5-spark-intro/output/category_summary")
+    .csv("./week5-data-cleaning/output/category_summary")
 )
 
 (
     regionDf.coalesce(1)
     .write.mode("overwrite")
     .option("header", True)
-    .csv("./week5-spark-intro/output/region_summary")
+    .csv("./week5-data-cleaning/output/region_summary")
 )
 
 print("Done!")
