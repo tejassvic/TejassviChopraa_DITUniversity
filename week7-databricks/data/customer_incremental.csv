@@ -1,0 +1,16 @@
+customer_id,customer_name,segment,country,city,state,postal_code,region
+AA-10315,Alex Avila,Corporate,United States,New York,New York,55407.0,Central
+AA-10375,Allen Armold,Home Office,United States,Los Angeles,California,85204.0,West
+AA-10480,Andrew Allen,Consumer,United States,Chicago,Illinois,28027.0,South
+AA-10645,Anna Andreadi,Corporate,United States,Houston,Texas,19013.0,East
+AB-10015,Aaron Bergman,Home Office,United States,Phoenix,Arizona,98103.0,West
+AB-10060,Adam Bellavance,Consumer,United States,Philadelphia,Pennsylvania,10009.0,East
+AB-10105,Adrian Barton,Corporate,United States,San Antonio,Texas,85023.0,West
+AB-10150,Aimee Bixby,Home Office,United States,San Diego,California,11561.0,East
+AB-10165,Alan Barnes,Consumer,United States,Dallas,Texas,90036.0,West
+AB-10255,Alejandro Ballentine,Corporate,United States,San Jose,California,44052.0,East
+NEW-001,Alex Turner,Consumer,United States,Seattle,Washington,98101,West
+NEW-002,Bianca Dev,Corporate,United States,Boston,Massachusetts,02108,East
+NEW-003,Charlie Hayes,Home Office,United States,Austin,Texas,78701,Central
+NEW-004,Diana Prince,Consumer,United States,Denver,Colorado,80202,West
+NEW-005,Ethan Hunt,Corporate,United States,Miami,Florida,33101,South

@@ -1,0 +1,101 @@
+customer_id,customer_name,segment,country,city,state,postal_code,region
+AA-10315,Alex Avila,Consumer,United States,Minneapolis,Minnesota,55407.0,Central
+AA-10375,Allen Armold,Consumer,United States,Mesa,Arizona,85204.0,West
+AA-10480,Andrew Allen,Consumer,United States,Concord,North Carolina,28027.0,South
+AA-10645,Anna Andreadi,Consumer,United States,Chester,Pennsylvania,19013.0,East
+AB-10015,Aaron Bergman,Consumer,United States,Seattle,Washington,98103.0,West
+AB-10060,Adam Bellavance,Home Office,United States,New York City,New York,10009.0,East
+AB-10105,Adrian Barton,Consumer,United States,Phoenix,Arizona,85023.0,West
+AB-10150,Aimee Bixby,Consumer,United States,Long Beach,New York,11561.0,East
+AB-10165,Alan Barnes,Consumer,United States,Los Angeles,California,90036.0,West
+AB-10255,Alejandro Ballentine,Home Office,United States,Lorain,Ohio,44052.0,East
+AB-10600,Ann Blume,Corporate,United States,Tucson,Arizona,85705.0,West
+AC-10420,Alyssa Crouse,Corporate,United States,San Francisco,California,94122.0,West
+AC-10450,Amy Cox,Consumer,United States,Minneapolis,Minnesota,55407.0,Central
+AC-10615,Ann Chong,Corporate,United States,New York City,New York,10009.0,East
+AC-10660,Anna Chung,Consumer,United States,Huntsville,Texas,77340.0,Central
+AD-10180,Alan Dominguez,Home Office,United States,Houston,Texas,77041.0,Central
+AF-10870,Art Ferguson,Consumer,United States,College Station,Texas,77840.0,Central
+AF-10885,Art Foster,Consumer,United States,Louisville,Kentucky,40214.0,South
+AG-10270,Alejandro Grove,Consumer,United States,West Jordan,Utah,84084.0,West
+AG-10300,Aleksandra Gannaway,Corporate,United States,Los Angeles,California,90049.0,West
+AG-10330,Alex Grayson,Consumer,United States,Stockton,California,95207.0,West
+AG-10390,Allen Goldenen,Consumer,United States,Cincinnati,Ohio,45231.0,East
+AG-10495,Andrew Gjertsen,Corporate,United States,Philadelphia,Pennsylvania,19140.0,East
+AG-10525,Andy Gerbode,Corporate,United States,Saint Petersburg,Florida,33710.0,South
+AG-10675,Anna Gayman,Consumer,United States,Houston,Texas,77036.0,Central
+AG-10765,Anthony Garverick,Home Office,United States,Philadelphia,Pennsylvania,19120.0,East
+AG-10900,Arthur Gainer,Consumer,United States,Tucson,Arizona,85705.0,West
+AH-10030,Aaron Hawkins,Corporate,United States,Philadelphia,Pennsylvania,19134.0,East
+AH-10075,Adam Hart,Corporate,United States,New York City,New York,10011.0,East
+AH-10120,Adrian Hane,Home Office,United States,Tucson,Arizona,85705.0,West
+AH-10195,Alan Haines,Corporate,United States,Tamarac,Florida,33319.0,South
+AH-10210,Alan Hwang,Consumer,United States,Brentwood,California,94513.0,West
+AH-10465,Amy Hunt,Consumer,United States,New York City,New York,10035.0,East
+AH-10585,Angele Hood,Consumer,United States,Chicago,Illinois,60623.0,Central
+AH-10690,Anna Häberlin,Corporate,United States,New York City,New York,10024.0,East
+AI-10855,Arianne Irving,Consumer,United States,Philadelphia,Pennsylvania,19120.0,East
+AJ-10780,Anthony Jacobs,Corporate,United States,Springfield,Virginia,22153.0,South
+AJ-10795,Anthony Johnson,Corporate,United States,Saint Petersburg,Florida,33710.0,South
+AJ-10945,Ashley Jarboe,Consumer,United States,Wilmington,North Carolina,28403.0,South
+AJ-10960,Astrea Jones,Consumer,United States,Rochester,New York,14609.0,East
+AM-10360,Alice McCarthy,Corporate,United States,Grand Prairie,Texas,75051.0,Central
+AM-10705,Anne McFarland,Consumer,United States,Auburn,Alabama,36830.0,South
+AO-10810,Anthony O'Donnell,Corporate,United States,Los Angeles,California,90045.0,West
+AP-10720,Anne Pryor,Home Office,United States,New York City,New York,10035.0,East
+AP-10915,Arthur Prichep,Consumer,United States,Palm Coast,Florida,32137.0,South
+AR-10345,Alex Russell,Corporate,United States,Lawrence,Massachusetts,1841.0,East
+AR-10405,Allen Rosenblatt,Corporate,United States,Franklin,Massachusetts,2038.0,East
+AR-10510,Andrew Roberts,Consumer,United States,Philadelphia,Pennsylvania,19134.0,East
+AR-10540,Andy Reiter,Consumer,United States,New York City,New York,10024.0,East
+AR-10570,Anemone Ratner,Consumer,United States,Columbus,Georgia,31907.0,South
+AR-10825,Anthony Rawles,Corporate,United States,Vancouver,Washington,98661.0,West
+AS-10045,Aaron Smayling,Corporate,United States,Jacksonville,North Carolina,28540.0,South
+AS-10090,Adam Shillingsburg,Consumer,United States,Charlottesville,Virginia,22901.0,South
+AS-10135,Adrian Shami,Home Office,United States,New York City,New York,10035.0,East
+AS-10225,Alan Schoenberger,Corporate,United States,New York City,New York,10024.0,East
+AS-10240,Alan Shonely,Consumer,United States,Tampa,Florida,33614.0,South
+AS-10285,Alejandro Savely,Corporate,United States,San Francisco,California,94109.0,West
+AS-10630,Ann Steele,Home Office,United States,Pasadena,Texas,77506.0,Central
+AT-10435,Alyssa Tate,Home Office,United States,Los Angeles,California,90004.0,West
+AT-10735,Annie Thurman,Consumer,United States,Seattle,Washington,98115.0,West
+AW-10840,Anthony Witt,Consumer,United States,Allen,Texas,75002.0,Central
+AW-10930,Arthur Wiediger,Home Office,United States,Aurora,Illinois,60505.0,Central
+AY-10555,Andy Yotov,Corporate,United States,Oceanside,California,92054.0,West
+AZ-10750,Annie Zypern,Consumer,United States,New York City,New York,10009.0,East
+BB-10990,Barry Blumstein,Corporate,United States,Inglewood,California,90301.0,West
+BB-11545,Brenda Bowman,Corporate,United States,Houston,Texas,77070.0,Central
+BC-11125,Becky Castell,Home Office,United States,Peoria,Arizona,85345.0,West
+BD-11320,Bill Donatelli,Consumer,United States,San Francisco,California,94110.0,West
+BD-11500,Bradley Drucker,Consumer,United States,Green Bay,Wisconsin,54302.0,Central
+BD-11560,Brendan Dodson,Home Office,United States,Fresno,California,93727.0,West
+BD-11605,Brian Dahlen,Consumer,United States,Lawrence,Massachusetts,1841.0,East
+BD-11620,Brian DeCherney,Consumer,United States,San Francisco,California,94122.0,West
+BD-11635,Brian Derr,Consumer,United States,Bowling Green,Kentucky,42104.0,South
+BD-11725,Bruce Degenhardt,Consumer,United States,Richmond,Kentucky,40475.0,South
+BD-11770,Bryan Davis,Consumer,United States,Houston,Texas,77070.0,Central
+BE-11335,Bill Eplett,Home Office,United States,Jackson,Michigan,49201.0,Central
+BE-11410,Bobby Elias,Consumer,United States,Lancaster,Ohio,43130.0,East
+BE-11455,Brad Eason,Home Office,United States,Olathe,Kansas,66062.0,Central
+BF-10975,Barbara Fisher,Corporate,United States,Charlotte,North Carolina,28205.0,South
+BF-11005,Barry Franz,Home Office,United States,Pasadena,California,91104.0,West
+BF-11020,Barry Französisch,Corporate,United States,Green Bay,Wisconsin,54302.0,Central
+BF-11080,Bart Folk,Consumer,United States,Baltimore,Maryland,21215.0,East
+BF-11170,Ben Ferrer,Home Office,United States,Los Angeles,California,90036.0,West
+BF-11215,Benjamin Farhat,Home Office,United States,Albuquerque,New Mexico,87105.0,West
+BF-11275,Beth Fritzler,Corporate,United States,Tucson,Arizona,85705.0,West
+BG-11035,Barry Gonzalez,Consumer,United States,Monroe,Louisiana,71203.0,South
+BG-11695,Brooke Gillingham,Corporate,United States,Cincinnati,Ohio,45231.0,East
+BG-11740,Bruce Geld,Consumer,United States,Philadelphia,Pennsylvania,19120.0,East
+BH-11710,Brosina Hoffman,Consumer,United States,Los Angeles,California,90032.0,West
+BK-11260,Berenike Kampe,Consumer,United States,New York City,New York,10035.0,East
+BM-11140,Becky Martin,Consumer,United States,San Antonio,Texas,78207.0,Central
+BM-11575,Brendan Murry,Corporate,United States,New York City,New York,10035.0,East
+BM-11650,Brian Moss,Corporate,United States,New York City,New York,10035.0,East
+BM-11785,Bryan Mills,Consumer,United States,Columbus,Ohio,43229.0,East
+BN-11470,Brad Norvell,Corporate,United States,Cary,North Carolina,27511.0,South
+BN-11515,Bradley Nguyen,Consumer,United States,Los Angeles,California,90049.0,West
+BO-11350,Bill Overfelt,Corporate,United States,Los Angeles,California,90045.0,West
+BO-11425,Bobby Odegard,Consumer,United States,Richmond,Kentucky,40475.0,South
+BP-11050,Barry Pond,Corporate,United States,Cranston,Rhode Island,2920.0,East
+BP-11095,Bart Pistole,Corporate,United States,Peoria,Illinois,61604.0,Central
