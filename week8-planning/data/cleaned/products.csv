@@ -1,0 +1,81 @@
+product_id,product_name,category,subcategory,cost_price
+PRD-0001,Wireless Mouse,Electronics,Accessories,283.68
+PRD-0002,Mechanical Keyboard,Electronics,Accessories,255.41
+PRD-0003,27 Inch Monitor,Electronics,Displays,39.05
+PRD-0004,Usb-C Hub,Electronics,Accessories,221.9
+PRD-0005,Noise Cancelling Headphones,Electronics,Audio,492.01
+PRD-0006,Bluetooth Speaker,Electronics,Audio,335.59
+PRD-0007,4K Webcam,Electronics,Accessories,56.28
+PRD-0008,Laptop Stand,Electronics,Accessories,445.41
+PRD-0009,Smart Watch,Electronics,Wearables,144.47
+PRD-0010,Fitness Tracker,Electronics,Wearables,345.31
+PRD-0011,External Ssd 1Tb,Electronics,Storage,129.31
+PRD-0012,Wireless Charger,Electronics,Accessories,278.5
+PRD-0013,Gaming Console,Electronics,Gaming,85.44
+PRD-0014,Vr Headset,Electronics,Gaming,209.09
+PRD-0015,Smart Home Hub,Electronics,Smart Home,392.28
+PRD-0016,Wifi Router,Electronics,Networking,368.85
+PRD-0017,Tablet,Electronics,Computing,352.13
+PRD-0018,E-Reader,Electronics,Computing,202.24
+PRD-0019,Digital Camera,Electronics,Photography,394.28
+PRD-0020,Portable Power Bank,Electronics,Accessories,62.24
+PRD-0021,Cotton T-Shirt,Clothing,Men,26.97
+PRD-0022,Denim Jeans,Clothing,Men,404.22
+PRD-0023,Running Shoes,Clothing,Footwear,369.83
+PRD-0024,Leather Jacket,Clothing,Men,474.69
+PRD-0025,Wool Sweater,Clothing,Women,333.38
+PRD-0026,Summer Dress,Clothing,Women,256.03
+PRD-0027,Sports Leggings,Clothing,Women,350.12
+PRD-0028,Windbreaker,Clothing,Outerwear,334.14
+PRD-0029,Formal Shirt,Clothing,Men,91.14
+PRD-0030,Knit Cardigan,Clothing,Women,417.69
+PRD-0031,Sneakers,Clothing,Footwear,393.95
+PRD-0032,Polo Shirt,Clothing,Men,223.68
+PRD-0033,Chino Trousers,Clothing,Men,397.9
+PRD-0034,Skirt,Clothing,Women,331.13
+PRD-0035,Winter Gloves,Clothing,Accessories,311.53
+PRD-0036,Beanie Hat,Clothing,Accessories,121.26
+PRD-0037,Socks 5-Pack,Clothing,Accessories,77.94
+PRD-0038,Belt,Clothing,Accessories,307.58
+PRD-0039,Raincoat,Clothing,Outerwear,443.64
+PRD-0040,Hoodie,Clothing,Men,195.07
+PRD-0041,Non-Stick Frying Pan,Home,Kitchen,345.37
+PRD-0042,Coffee Maker,Home,Kitchen,443.31
+PRD-0043,Air Fryer,Home,Kitchen,403.03
+PRD-0044,Toaster,Home,Kitchen,280.92
+PRD-0045,Blender,Home,Kitchen,71.0
+PRD-0046,Dinner Plate Set,Home,Kitchen,281.67
+PRD-0047,Cutlery Set,Home,Kitchen,224.07
+PRD-0048,Glass Storage Jars,Home,Kitchen,216.24
+PRD-0049,Memory Foam Pillow,Home,Bedding,83.78
+PRD-0050,Bed Sheet Set,Home,Bedding,377.13
+PRD-0051,Duvet Cover,Home,Bedding,389.95
+PRD-0052,Bath Towel Set,Home,Bathroom,222.74
+PRD-0053,Shower Curtain,Home,Bathroom,171.24
+PRD-0054,Scented Candle,Home,Decor,289.97
+PRD-0055,Wall Clock,Home,Decor,152.81
+PRD-0056,Table Lamp,Home,Lighting,418.69
+PRD-0057,Floor Rug,Home,Decor,400.93
+PRD-0058,Bookshelf,Home,Furniture,140.1
+PRD-0059,Office Chair,Home,Furniture,336.09
+PRD-0060,Foldable Desk,Home,Furniture,421.05
+PRD-0061,Python Programming,Books,Technology,269.39
+PRD-0062,Sql Essentials,Books,Technology,333.18
+PRD-0063,Data Science Handbook,Books,Technology,434.09
+PRD-0064,Machine Learning Basics,Books,Technology,167.04
+PRD-0065,Clean Code,Books,Technology,440.42
+PRD-0066,The Art Of Statistics,Books,Mathematics,213.67
+PRD-0067,Calculus Made Easy,Books,Mathematics,375.77
+PRD-0068,Linear Algebra Primer,Books,Mathematics,115.99
+PRD-0069,World History,Books,History,24.93
+PRD-0070,Modern India,Books,History,420.42
+PRD-0071,Bestseller Novel,Books,Fiction,239.41
+PRD-0072,Sci-Fi Anthology,Books,Fiction,235.19
+PRD-0073,Mystery Thriller,Books,Fiction,304.92
+PRD-0074,Travel Photography,Books,Art,390.01
+PRD-0075,Watercolor Guide,Books,Art,291.45
+PRD-0076,Cooking Basics,Books,Cooking,454.47
+PRD-0077,Baking For Beginners,Books,Cooking,103.17
+PRD-0078,Yoga For Health,Books,Wellness,125.21
+PRD-0079,Meditation Guide,Books,Wellness,343.71
+PRD-0080,Biography Of A Visionary,Books,Biography,285.14

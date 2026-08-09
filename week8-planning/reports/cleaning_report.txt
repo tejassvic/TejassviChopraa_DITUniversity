@@ -1,0 +1,40 @@
+======================================================================
+DATA CLEANING REPORT
+Generated on : 2026-08-09 23:28:42
+======================================================================
+
+1. INPUT SUMMARY (raw files)
+--------------------------------------------------
+   orders.csv           :    700 rows
+   order_items.csv      :   2095 rows
+   products.csv         :     80 rows
+   customers.csv        :    150 rows
+
+2. ISSUES FOUND & RESOLVED
+--------------------------------------------------
+   * Orders with dates in the wrong format (DD-MM-YYYY) – converted :    58
+   * Orders with impossible/unparseable dates – removed           :     0
+   * Orders with missing customer_id – set to 'UNKNOWN'           :    42
+   * Product names with extra whitespace / bad casing – normalised :    21
+   * Duplicate products – removed                                 :     0
+   * Customers with invalid emails – flagged                      :     1
+   * Order items referencing non-existent orders – flagged        :     0
+
+3. CLEANED OUTPUT SUMMARY
+--------------------------------------------------
+   orders_cleaned.csv   :    700 rows
+   order_items_cleaned.csv :   2095 rows
+   products_cleaned.csv :     80 rows
+   customers_cleaned.csv :    150 rows
+
+4. DETAILS
+--------------------------------------------------
+   Invalid email customer IDs (1):
+      CUST-0068
+
+   Orphaned order IDs in items (0):
+      (none)
+
+======================================================================
+END OF REPORT
+======================================================================

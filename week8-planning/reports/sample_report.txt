@@ -1,0 +1,29 @@
+========================================================================
+E-COMMERCE ORDER ANALYTICS - SUMMARY REPORT
+Report granularity : MONTHLY
+Period             : 2026-07-11  to  2026-08-09
+Generated on       : 2026-08-09 23:38:00
+========================================================================
+
+KEY METRICS
+--------------------------------------------------
+  Total orders      :           29   (previous:           36  |  -19.44%)
+  Total revenue     :     67633.29   (previous:     85017.86  |  -20.45%)
+  Unique customers  :           27   (previous:           30  |  -10.00%)
+
+TOP 3 PRODUCTS BY REVENUE
+--------------------------------------------------
+  1. Laptop Stand                        revenue:    4902.84   (prev:          - | -)
+  2. Smart Home Hub                      revenue:    4146.63   (prev:          - | -)
+  3. Wool Sweater                        revenue:    3979.54   (prev:          - | -)
+
+PERIOD COMPARISON
+--------------------------------------------------
+  Previous comparable period: 2026-06-11  to  2026-07-10
+  Revenue change   : -20.45%
+  Orders change    : -19.44%
+  Customers change : -10.00%
+
+========================================================================
+END OF REPORT
+========================================================================
